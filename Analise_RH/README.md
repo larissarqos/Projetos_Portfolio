@@ -116,15 +116,14 @@ A empresa possui 3 departamentos: Human Resources, Research & Development e Sale
 
 Considerando o nível de satisfação por departamento, temos:
 
-**Human Resources**  
-- **Alto** 31 (49%)
-- **Médio:** 15 (24%)
-- **Baixo:** 17 (27%)
+| Departamento           | Alta Satisfação | Média Satisfação | Baixa Satisfação |
+|------------------------|-----------------|------------------|------------------|
+| Human Resources        | 31  (49%)       | 15  (24%)        | 17  (27%)        |
+| Research & Development | 366 (38%)       | 300 (31%)        | 295 (31%)        |
+| Sales   | 151          | 172 (39%)       | 127 (28%)        | 147 (33%)        |
 
-**Research & Development**  
-- **Alto** 366 (38%)
-- **Médio:** 300 (31%)
-- **Baixo:** 295 (31%)
+
+
 
   **Sales**  
 - **Alto** 172 (39%)

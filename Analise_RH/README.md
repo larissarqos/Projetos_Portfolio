@@ -1,4 +1,4 @@
-<h1 align="center"> Dashboard RH - Análise de Performance de Funcionários </h1>
+<h1 align="center"> Dashboard RH - Análise de Performance </h1>
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/0b4a00d9-5935-47c4-85c9-ded57cc69eb0" alt="img" width="1100"/>
@@ -7,7 +7,7 @@
 <br>
 
 ## 📃 Contexto 
-Uma rede fictícia de cafeterias deseja ampliar seus negócios, abrindo novas filiais em cidades promissoras. A rede deseja saber os melhores locais e produtos para abertura de suas novas lojas, com base no rendimento de suas vendas em filiais já existentes.
+Neste projeto, faremos a **análise de performance de funcionários e suas avaliações em relação à satisfação com a empresa**. O objetivo é ajudar o setor de RH a **detectar que fatores estão relacionados ao baixo desempenho e satisfação** no ambiente de trabalho e que **medidas podem ser adotadas para melhorar esses resultados**. Começaremos com uma **análise exploratória dos dados**, partindo para a **captura de insights** úteis para nossa análise e por fim uma série de **recomendações** com base nas conclusões obtidas.
 
 ***
 
@@ -18,7 +18,7 @@ Uma rede fictícia de cafeterias deseja ampliar seus negócios, abrindo novas fi
 - Limpeza e tratamento de dados
 - Análise exploratória
 - Engenharia de atributos
-- Gráficos
+- Análise descritiva, diagnóstica e prescritiva
 
 ### 🔸 Ferramentas
 - Excel (fonte de dados)
@@ -29,10 +29,7 @@ Uma rede fictícia de cafeterias deseja ampliar seus negócios, abrindo novas fi
 <br>
 
 ## 🎯 Objetivos 
-Identificaremos os lugares com possibilidade de maior retorno, bem como os produtos de maior sucesso das cafeterias. Basicamente 3 pontos principais guiarão a análise:
-* Cidades que geram maior receita
-* Produtos que mais vendem
-* Estimativa de consumo para as possíveis novas lojas
+O foco do projeto é entregar recomendações que podem ajudar o RH a melhorar a satisfação e desempenho dos funcionários da empresa.
 
 ***
 
@@ -40,10 +37,10 @@ Identificaremos os lugares com possibilidade de maior retorno, bem como os produ
 
 ## 🧱 Estrutura do Projeto
 
-#### 🔸 Banco de dados
-#### 🔸 Respondendo às perguntas de negócio
+#### 🔸 Banco de Dados
+#### 🔸 Análise 
+#### 🔸 Insights Obtidos
 #### 🔸 Recomendações Estratégicas
-#### 🔸 Impacto Esperado
 
 ***
 

@@ -58,23 +58,26 @@ A base de dados está em inglês e possui a tabela analytics_data. Estão listad
 | city_rank  | Ranking das cidades  | int  |
 
 
-<br>
-
-### Relacionamento das Tabelas
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/533bf009-ce4b-45fb-9b51-532b02b91ce8" height="400" width="600"/>
-</p>
-
-
 ***
 
 <br>
 
 
-### 📍 Respondendo às perguntas de negócio
+### 📍 Análise Exploratória
 
-#### 📌 1. Qual foi o faturamento de 2024?  
-O faturamento total do ano foi de **R$461.743,30**. As lojas do **Leblon** e de **Ipanema** lideraram as vendas, responsáveis por **28%** e **21,8%** do total, respectivamente.
+#### 📌 1. Compreendendo o perfil dos funcionários
+A empresa possui **1470 funcionários**. Considerando suas características de gênero, faixa etária e estado civil, temos:
+
+**Gênero**
+- **Homens:** 60% (882)
+- **Mulheres:** 40% (588)
+
+**Faixa Etária**
+- 
+
+
+
+**60% (882) são homens** e **40% (588) são mulheres**, distribuídos entre 18 a 60 anos, com **maioria nas faixas 31-50 anos** e estado civil casado.
 
 | Loja     | Faturamento      | Participação no total  |
 |----------|------------------|------------------------|

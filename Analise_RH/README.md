@@ -47,9 +47,8 @@ O foco do projeto é entregar recomendações que podem ajudar o RH a melhorar a
 <br>
 
 ### 🗄 Banco de dados
-A base de dados está em inglês e possui quatro tabelas: city (cidades), customers (clientes), products (produtos) e sales (vendas). Segue abaixo o dicionário dos dados e o relacionamento das tabelas:
+A base de dados está em inglês e possui a tabela analytics_data. Estão listadas aqui apenas as colunas que foram utilizadas na análise.
 
-**Tabela city**
 | Coluna | Descrição | Tipo de Dado |
 |----------|----------|----------|
 | city_id | ID da cidade  | varchar(15), chave primária da tabela  |
@@ -58,29 +57,6 @@ A base de dados está em inglês e possui quatro tabelas: city (cidades), custom
 | estimated_rent  | Valor estimado do aluguel   | float  |
 | city_rank  | Ranking das cidades  | int  |
 
-**Tabela customers**
-| Coluna | Descrição | Tipo de Dado |
-|----------|----------|----------|
-| customer_id | ID do cliente  | varchar(15), chave primária da tabela |
-| customer_name   | Nome do cliente   | varchar(50)  |
-| city_id   |  ID da cidade  | varchar(15), chave estrangeira  |
-
-**Tabela products**
-| Coluna | Descrição | Tipo de Dado |
-|----------|----------|----------|
-| product_id | ID do produto  | varchar(15), chave primária da tabela  |
-| product_name   | Nome do produto   | varchar(40)  |
-| price   | Preco do produto   | float   |
-
-**Tabela sales**
-| Coluna | Descrição | Tipo de Dado |
-|----------|----------|----------|
-| sale_id | ID da venda  | varchar(15), chave primária da tabela  |
-| sale_date   | Data da venda   | date  |
-| product_id   | ID do produto  | varchar(15), chave estrangeira  |
-| customer_id  | ID do cliente   | varchar(15), chave estrangeira |
-| total  | Valor total da venda  | floar   |
-| rating  | Nota da venda, de 1 a 5   | int  |
 
 <br>
 

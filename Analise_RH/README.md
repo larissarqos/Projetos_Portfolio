@@ -18,11 +18,9 @@ Uma rede fictícia de cafeterias deseja ampliar seus negócios, abrindo novas fi
 - Limpeza e tratamento de dados
 - Análise exploratória
 - Engenharia de atributos
-- Estatística
-- Businnes Intelligence
+- Gráficos
 
 ### 🔸 Ferramentas
-- SQL Server (window function)
 - Excel (fonte de dados)
 - Power BI (visualização)
   

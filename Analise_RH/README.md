@@ -68,14 +68,14 @@ A base de dados está em inglês e possui a tabela analytics_data. Estão listad
 #### 📌 1. Compreendendo o perfil dos funcionários
 A empresa possui **1470 funcionários**. Considerando suas características de **gênero**, **faixa etária**, **estado civil** e anos na empresa, temos:
 
-**Gênero**
+**Gênero**  
 A maioria é do gênero masculino.
 - **Homens:** 882 (60%)
 - **Mulheres:** 588 (40%)
 
 --
 
-**Faixa Etária**
+**Faixa Etária**  
 A maioria está na faixa dos 31 a 50 anos.
 - **31-40:** 619 ()
 - **41-50:** 322 ()
@@ -85,7 +85,7 @@ A maioria está na faixa dos 31 a 50 anos.
 
 --
 
-**Estado Civil**
+**Estado Civil**  
 A maioria é casado.
 - **Casado:** 673 (46%)
 - **Solteiro:** 470 (32%)
@@ -93,7 +93,7 @@ A maioria é casado.
 
 --
 
-**Anos na Empresa**
+**Anos na Empresa**  
 A maior parta dos funcionários está entre 0 e 7 anos na empresa.
 - **4-7:** 472 ()
 - **0-3:** 470 ()

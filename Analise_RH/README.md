@@ -3,8 +3,9 @@
 <h1 align="center"> Dashboard RH - Análise de Performance de Funcionários </h1>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/4b8fca53-1db4-4cba-b634-38f6d4f84b23" alt="img" width="1100"/>
+  <img src="https://github.com/user-attachments/assets/78193979-8979-4522-92ef-92cd2da7d2f4" alt="img" width="1100"/>
 </p>
+
 
 
 <br>

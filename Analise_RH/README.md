@@ -66,27 +66,42 @@ A base de dados está em inglês e possui a tabela analytics_data. Estão listad
 ### 📍 Análise Exploratória
 
 #### 📌 1. Compreendendo o perfil dos funcionários
-A empresa possui **1470 funcionários**. Considerando suas características de gênero, faixa etária e estado civil, temos:
+A empresa possui **1470 funcionários**. Considerando suas características de **gênero**, **faixa etária**, **estado civil** e anos na empresa, temos:
 
 **Gênero**
-- **Homens:** 60% (882)
-- **Mulheres:** 40% (588)
+A maioria é do gênero masculino.
+- **Homens:** 882 (60%)
+- **Mulheres:** 588 (40%)
+
+--
 
 **Faixa Etária**
-- 
+A maioria está na faixa dos 31 a 50 anos.
+- **31-40:** 619 ()
+- **41-50:** 322 ()
+- **26-30:** 263 ()
+- **50+:** 143 ()
+- **18-25:** 123 ()
 
+--
 
+**Estado Civil**
+A maioria é casado.
+- **Casado:** 673 (46%)
+- **Solteiro:** 470 (32%)
+- **Divorciado:** 327 (22%)
 
-**60% (882) são homens** e **40% (588) são mulheres**, distribuídos entre 18 a 60 anos, com **maioria nas faixas 31-50 anos** e estado civil casado.
+--
 
-| Loja     | Faturamento      | Participação no total  |
-|----------|------------------|------------------------|
-| Leblon   | R$129.020,00     | 28%                    |
-| Ipanema  | R$100.448,64     | 21,8%                  |
-| Botafogo | R$91.200,00      | 19,8%                  |
-| Barra    | R$73.385,08      | 15,9%                  |
-| Tijuca   | R$67.689,58      | 14,6%                  |
-| **Total**| **R$461.743,30** | **100%**               |
+**Anos na Empresa**
+A maior parta dos funcionários está entre 0 e 7 anos na empresa.
+- **4-7:** 472 ()
+- **0-3:** 470 ()
+- **8-10:** 282 ()
+- **11-15:** 108
+- **16-20:** 72
+- **20+:** 66
+
 
 --
 

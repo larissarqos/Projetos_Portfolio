@@ -38,7 +38,7 @@ O foco do projeto é entregar recomendações que podem ajudar o RH a melhorar a
 ## 🧱 Estrutura do Projeto
 
 #### 🔸 Banco de Dados
-#### 🔸 Análise 
+#### 🔸 Compreendendo os Dados
 #### 🔸 Insights Obtidos
 #### 🔸 Recomendações Estratégicas
 

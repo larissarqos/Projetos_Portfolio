@@ -63,9 +63,10 @@ A base de dados está em inglês e possui a tabela analytics_data. Estão listad
 <br>
 
 
-### 📍 Análise Exploratória
+### 📍 Compreendendo os Dados
+Aqui, vamos analisar as diferentes partes que compoem a empresa e suas características, sendo elas: o perfil dos funcionários e os setores da empresa.
 
-#### 📌 1. Compreendendo o perfil dos funcionários
+#### 📌 1. Perfil dos funcionários
 A empresa possui **1470 funcionários**. Considerando suas características de **gênero**, **faixa etária**, **estado civil** e anos na empresa, temos:
 
 **Gênero**  
@@ -104,9 +105,33 @@ Maior parte está entre 0 e 7 anos na empresa.
 
 --
 
-#### 📌 2. Quais lojas mais se destacaram em vendas?  
-Em 2024, foram registradas **759 vendas**, totalizando **2.308 itens**. As filiais do **Leblon** e de **Ipanema** lideraram tanto em número de vendas quanto em faturamento.
+#### 📌 2. Departamentos da Empresa
+A empresa possui 3 departamentos: Human Resources, Research & Development e Sales. Vamos avaliar o total de funcionários, 
+| Departamento | Total Funcionários | Média Anos na Empresa | Média Anos Desde Ult. Promoção | Total para Promover | Total para Demitir |
+|--------------|--------------------|-----------------------|--------------------------------|---------------------|--------------------|
+| Human Resources        | 63  | 7,24  | 1,78 | 2   | 1   |
+| Research & Development | 961 | 6,86  | 2,14 | 38  | 11  |
+| Sales                  | 446 | 7,28  | 2,35 | 16  | 10  |
 
+
+Considerando o nível de satisfação por departamento, temos:
+
+**Human Resources**  
+- **Alto** 31 (49%)
+- **Médio:** 15 (24%)
+- **Baixo:** 17 (27%)
+
+**Research & Development**  
+- **Alto** 366 (38%)
+- **Médio:** 300 (31%)
+- **Baixo:** 295 (31%)
+
+  **Sales**  
+- **Alto** 172 (39%)
+- **Médio:** 127 (28%)
+- **Baixo:** 147 (33%)
+
+  
 --
 
 #### 📌 3. Quais foram os produtos mais vendidos?  

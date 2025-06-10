@@ -1,61 +1,104 @@
-
-
 <h1 align="center"> Dashboard RH - Análise de Performance de Funcionários </h1>
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/0b4a00d9-5935-47c4-85c9-ded57cc69eb0" alt="img" width="1100"/>
 </p>
 
-
-
-
 <br>
 
-## 📃 Contexto  
-O setor comercial de uma rede fictícia de lojas de roupas deseja avaliar o desempenho de suas filiais ao longo do ano de 2024. Com uma **meta mensal de R$7.000,00 por loja**, a empresa busca entender se os objetivos foram alcançados, identificar quais unidades e produtos geraram maior retorno, além de obter uma visão consolidada sobre seu faturamento anual.
+## 📃 Contexto 
+Uma rede fictícia de cafeterias deseja ampliar seus negócios, abrindo novas filiais em cidades promissoras. A rede deseja saber os melhores locais e produtos para abertura de suas novas lojas, com base no rendimento de suas vendas em filiais já existentes.
 
 ***
 
 <br>
 
 ## 🛠️ Ferramentas e Métodos Utilizados
-- Microsoft Excel (fórmulas, tabelas dinâmicas, gráficos, slicers)
-- Business Intelligence
+### 🔸 Métodos
+- Limpeza e tratamento de dados
+- Análise exploratória
+- Engenharia de atributos
+- Estatística
+- Businnes Intelligence
+
+### 🔸 Ferramentas
+- SQL Server (window function)
+- Excel (fonte de dados)
+- Power BI (visualização)
   
 ***
 
 <br>
 
-## 🎯 Objetivos  
-Para atender à demanda da empresa, realizamos uma análise exploratória das vendas de 2024, com foco nas seguintes questões-chave:
-
-- Qual foi o faturamento de 2024?   
-- Quais lojas mais se destacaram em vendas?  
-- Quais foram os produtos mais vendidos?  
-- As lojas atingiram a meta mensal estabelecida de R$7.000,00?
-
-Com base nessas perguntas, conseguimos avaliar o desempenho por loja, produto e mês — oferecendo à empresa uma visão clara sobre os pontos fortes e oportunidades de melhoria.
+## 🎯 Objetivos 
+Identificaremos os lugares com possibilidade de maior retorno, bem como os produtos de maior sucesso das cafeterias. Basicamente 3 pontos principais guiarão a análise:
+* Cidades que geram maior receita
+* Produtos que mais vendem
+* Estimativa de consumo para as possíveis novas lojas
 
 ***
 
 <br>
 
-## 🧱 Estrutura do Projeto  
+## 🧱 Estrutura do Projeto
 
-### 🗄 Banco de dados  
-
-| Coluna           | Descrição                                              |
-|------------------|--------------------------------------------------------|
-| Loja             | Nome da filial                                         |
-| Data             | Data da venda                                          |
-| Produto          | Produto vendido                                        |
-| Valor_Unitario   | Valor unitário do produto                              |
-| Quantidade       | Quantidade vendida                                     |
-| Valor_Total      | Valor total da venda (Quantidade × Valor Unitário)     |
+#### 🔸 Banco de dados
+#### 🔸 Respondendo às perguntas de negócio
+#### 🔸 Recomendações Estratégicas
+#### 🔸 Impacto Esperado
 
 ***
 
 <br>
+
+### 🗄 Banco de dados
+A base de dados está em inglês e possui quatro tabelas: city (cidades), customers (clientes), products (produtos) e sales (vendas). Segue abaixo o dicionário dos dados e o relacionamento das tabelas:
+
+**Tabela city**
+| Coluna | Descrição | Tipo de Dado |
+|----------|----------|----------|
+| city_id | ID da cidade  | varchar(15), chave primária da tabela  |
+| city_name   | Nome da cidade   | varchar(20)  |
+| population   | Quantidade de habitantes  |  bigint |
+| estimated_rent  | Valor estimado do aluguel   | float  |
+| city_rank  | Ranking das cidades  | int  |
+
+**Tabela customers**
+| Coluna | Descrição | Tipo de Dado |
+|----------|----------|----------|
+| customer_id | ID do cliente  | varchar(15), chave primária da tabela |
+| customer_name   | Nome do cliente   | varchar(50)  |
+| city_id   |  ID da cidade  | varchar(15), chave estrangeira  |
+
+**Tabela products**
+| Coluna | Descrição | Tipo de Dado |
+|----------|----------|----------|
+| product_id | ID do produto  | varchar(15), chave primária da tabela  |
+| product_name   | Nome do produto   | varchar(40)  |
+| price   | Preco do produto   | float   |
+
+**Tabela sales**
+| Coluna | Descrição | Tipo de Dado |
+|----------|----------|----------|
+| sale_id | ID da venda  | varchar(15), chave primária da tabela  |
+| sale_date   | Data da venda   | date  |
+| product_id   | ID do produto  | varchar(15), chave estrangeira  |
+| customer_id  | ID do cliente   | varchar(15), chave estrangeira |
+| total  | Valor total da venda  | floar   |
+| rating  | Nota da venda, de 1 a 5   | int  |
+
+<br>
+
+### Relacionamento das Tabelas
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/533bf009-ce4b-45fb-9b51-532b02b91ce8" height="400" width="600"/>
+</p>
+
+
+***
+
+<br>
+
 
 ### 📍 Respondendo às perguntas de negócio
 

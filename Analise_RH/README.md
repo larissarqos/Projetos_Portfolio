@@ -149,8 +149,9 @@ Considerando os níveis de satisfação e performance por departamento, temos:
 <br>
 
 #### 💡 Insights Obtidos  
-Com base nos dados, podemos tirar algumas conclusões em relação à performance e satisfação dos colaboradores.  
-*Os insights foram obtidos com base na análise dos dados através dos gráficos. Por favor, abrir o dashboard no Power BI para acompanhar as conclusões*
+Com base nos dados, podemos tirar algumas conclusões em relação à performance e satisfação dos colaboradores. 
+
+*Obs.: Os insights foram obtidos com base na análise dos dados através dos gráficos. Por favor, abrir o dashboard no Power BI para acompanhar as conclusões.*
 
 #### 🟨 Performance
 - **Gênero e Faixa Etária não têm diferença significativa nos resultados de performance:** Os valores em performance por gênero são muito próximos, assim como por faixa etária. A **principal diferença se dá na faixa dos 50+, para o gênero feminino, em que 20% das colaboradoras está com baixo rendimento**, comparado ao geral da empresa de 14% em baixo desempenho.

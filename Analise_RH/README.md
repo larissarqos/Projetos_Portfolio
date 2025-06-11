@@ -74,6 +74,7 @@ A empresa possui **1470 funcionários**. Considerando suas características de *
 - **Mulheres:** 40%
 
 <br>
+
 **Estado Civil -** Maioria é casado.
 - **Casado:** 46%
 - **Solteiro:** 32%

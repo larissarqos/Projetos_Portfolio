@@ -325,6 +325,7 @@ Os cliente fazem mais pedidos no turno da noite, mais de 50% das compras são re
 	GROUP BY period
 	ORDER BY total_sales DESC
 ```
+--
 
 #### 📌 10. Qual a classificação dos clientes de acordo com a análise RFM?
 Após a segmentação dos clientes com base em seu perfil de compras (recência, frequência e valor), esse foi o resultado:

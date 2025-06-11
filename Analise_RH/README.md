@@ -67,13 +67,19 @@ A base de dados está em inglês e possui a tabela analytics_data. Estão listad
 Aqui, vamos analisar as diferentes partes que compoem a empresa e suas características, sendo elas: o perfil dos funcionários e os setores da empresa.
 
 #### 📌 Perfil dos funcionários
-A empresa possui **1470 funcionários**. Considerando suas características de **gênero**, **faixa etária**, **estado civil** e anos na empresa, temos:
+A empresa possui **1470 funcionários**. Considerando suas características de **gênero**, **estado civil** e **faixa etária**, temos:
 
 **Gênero -** Maioria é do gênero masculino.
-- **Homens:** 882 (60%)
-- **Mulheres:** 588 (40%)
+- **Homens:** 60%
+- **Mulheres:** 40%
 
---
+<br>
+**Estado Civil -** Maioria é casado.
+- **Casado:** 46%
+- **Solteiro:** 32%
+- **Divorciado:** 22%
+
+<br>
 
 **Faixa Etária -** Maioria entre 31-50 anos.
 - **31-40:** 619 ()
@@ -84,13 +90,7 @@ A empresa possui **1470 funcionários**. Considerando suas características de *
 
 --
 
-**Estado Civil -** Maioria é casado.
-- **Casado:** 673 (46%)
-- **Solteiro:** 470 (32%)
-- **Divorciado:** 327 (22%)
-
---
-
+#### 📌 Relação com a empresa
 Sobre sua relação com a empresa, considerando departamento, anos de serviço, nível de desempenho e satisfação, temos:
 
 **Departamento -** Research & Development possui 65% dos funcionários.
@@ -98,7 +98,7 @@ Sobre sua relação com a empresa, considerando departamento, anos de serviço, 
 - **Human Resources:** 63
 - Sales:** 446
 
---
+<br>
 
 **Anos na Serviço -** Maior parte está entre 0 e 7 anos na empresa.
 - **4-7:** 472 ()
@@ -108,13 +108,13 @@ Sobre sua relação com a empresa, considerando departamento, anos de serviço, 
 - **16-20:** 72 ()
 - **20+:** 66 ()
 
---
+<br>
 
 **Performance -** A maior parte dos funcionários possui bons resultados em performance.
 - **Alta:** 85%
 - **Baixa:** 15%
   
---
+<br>
 
 **Nível Satisfação -** Quase 40% dos funcionários está muito satisfeito com a empresa. Média e Baixa satisfação se encontram praticamente empatados.
 - **Alto:** 39%

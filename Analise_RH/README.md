@@ -106,15 +106,37 @@ Maior parte está entre 0 e 7 anos na empresa.
 --
 
 #### 📌 2. Departamentos da Empresa
-A empresa possui 3 departamentos: Human Resources, Research & Development e Sales. Vamos avaliar o total de funcionários, 
+A empresa possui 3 departamentos: Human Resources, Research & Development e Sales. Vamos verificar algumas informações por departamento, conforme tabela:
+
 | Departamento | Total Funcionários | Média Anos na Empresa | Média Anos Desde Ult. Promoção | Total para Promover | Total para Demitir |
 |--------------|--------------------|-----------------------|--------------------------------|---------------------|--------------------|
 | Human Resources        | 63  | 7,24  | 1,78 | 2   | 1   |
 | Research & Development | 961 | 6,86  | 2,14 | 38  | 11  |
 | Sales                  | 446 | 7,28  | 2,35 | 16  | 10  |
 
+--
 
-#### 📌 2. Nível de Satisfação
+#### 📌 3. Nível de Satisfação
+Quase 40% dos funcionários está muito satisfeito com a empresa. Média e Baixa satisfação se encontram praticamente empatados.
+
+| Nível Satisfação | Total     |
+|------------------|-----------|
+| Alto             | 569 (39%) |
+| Médio            | 442 (30%) |
+| Baixo            | 459 (31%) |
+
+--
+
+#### 📌 4. Nível de Performance
+A maior parte dos funcionários possui bons resultados em performance.
+
+| Performance | Total       |
+|-------------|-------------|
+| Alta        | 1.244 (85%) |
+| Baixa       | 226   (15%) |
+
+
+#### 📌 3. Nível de Satisfação
 Considerando o nível de satisfação por departamento, temos:
 
 | Departamento           | Alta Satisfação | Média Satisfação | Baixa Satisfação |
@@ -126,17 +148,6 @@ Considerando o nível de satisfação por departamento, temos:
   
 --
 
-#### 📌 3. Nível de Performance
-As vendas foram bem distribuídas entre os produtos. Porém, em termos de faturamento, os destaques foram **Camisa Linho**, **Oxford** e **Joa**, que juntas representaram mais de **70% do faturamento**.
-
-| Produto         | Nº de Vendas | Quantidade | Faturamento Anual | % do Total  |
-|-----------------|--------------|------------|-------------------|-------------|
-| Camisa Oxford   | 158          | 480        | R$100.464,00      | 21,75%      |
-| Camiseta Navy   | 157          | 479        | R$80.136,70       | 17,36%      |
-| Camiseta Joa    | 151          | 480        | R$97.104,00       | 21,03%      |
-| Camiseta Pima   | 149          | 423        | R$50.506,20       | 10,94%      |
-| Camisa Linho    | 144          | 446        | R$133.532,40      | 28,92%      |
-| **Total**       | **759**      | **2.308**  | **R$461.743,30**  | **100%**    |
 
 --
 

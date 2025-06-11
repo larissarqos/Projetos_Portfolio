@@ -166,7 +166,7 @@ impactam as vendas e faturamento, considerando o perfil dos clientes, categoria 
 --
 
 #### 📌 2. Qual a categoria mais lucrativa?
-A categoria mais lucrativa é** Clothing, 250.730 doláres (quase 35% do lucro total da empresa)**.
+A categoria mais lucrativa é **Clothing, 250.730 doláres (quase 35% do lucro total da empresa)**.
 
 ```sql
 	SELECT category,

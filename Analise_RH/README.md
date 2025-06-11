@@ -114,26 +114,19 @@ A empresa possui 3 departamentos: Human Resources, Research & Development e Sale
 | Sales                  | 446 | 7,28  | 2,35 | 16  | 10  |
 
 
+#### 📌 2. Nível de Satisfação
 Considerando o nível de satisfação por departamento, temos:
 
 | Departamento           | Alta Satisfação | Média Satisfação | Baixa Satisfação |
 |------------------------|-----------------|------------------|------------------|
 | Human Resources        | 31  (49%)       | 15  (24%)        | 17  (27%)        |
 | Research & Development | 366 (38%)       | 300 (31%)        | 295 (31%)        |
-| Sales   | 151          | 172 (39%)       | 127 (28%)        | 147 (33%)        |
-
-
-
-
-  **Sales**  
-- **Alto** 172 (39%)
-- **Médio:** 127 (28%)
-- **Baixo:** 147 (33%)
+| Sales                  | 172 (39%)       | 127 (28%)        | 147 (33%)        |
 
   
 --
 
-#### 📌 3. Quais foram os produtos mais vendidos?  
+#### 📌 3. Nível de Performance
 As vendas foram bem distribuídas entre os produtos. Porém, em termos de faturamento, os destaques foram **Camisa Linho**, **Oxford** e **Joa**, que juntas representaram mais de **70% do faturamento**.
 
 | Produto         | Nº de Vendas | Quantidade | Faturamento Anual | % do Total  |

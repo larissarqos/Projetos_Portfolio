@@ -187,7 +187,7 @@ Para o perfil com **mais de 20 anos na empresa, Research & Development possui a 
 
 <br>
 
-### 📈 Recomendações Estratégicas
+### 🚀 Recomendações Estratégicas
 Com base na análise dos dados e padrões identificados, algumas ações podem ser adotadas, de acordo com os principais pontos avaliados: Performance dos colaboradores e satisfação deles em relação à empresa.
 
 #### 🟦 Performance

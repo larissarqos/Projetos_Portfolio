@@ -94,8 +94,6 @@ A empresa possui **1470 funcionários**. Considerando suas características de *
 #### 📌 Relação com a empresa
 Sobre sua relação com a empresa, considerando departamento, anos de serviço, nível de desempenho e satisfação, temos:
 
-<br>
-
 **Departamento -** Research & Development possui 65% dos funcionários.
 - **Research & Development:** 65%
 - **Human Resources:** 30%
@@ -126,7 +124,7 @@ Sobre sua relação com a empresa, considerando departamento, anos de serviço, 
 
 --
 
-#### 📌 Departamentos da Empresa
+#### 📌 Departamentos
 A empresa possui 3 departamentos: Human Resources, Research & Development e Sales. Vamos verificar algumas informações por departamento, conforme tabela:
 
 | Departamento | Total Funcionários | Média Anos na Empresa | Média Anos Desde Ult. Promoção | Total para Promover | Total para Demitir |

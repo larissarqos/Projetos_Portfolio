@@ -152,25 +152,36 @@ Com base nos dados, podemos tirar algumas conclusões em relação à performanc
 
 *Obs.: Os insights foram obtidos com base na análise dos dados através dos gráficos. Por favor, abrir o dashboard no Power BI para acompanhar as conclusões.*
 
-#### 🟨 Performance
-- **Gênero e Faixa Etária não têm diferença significativa nos resultados de performance:** Os valores em performance por gênero são muito próximos, assim como por faixa etária. A **principal diferença se dá na faixa dos 50+, para o gênero feminino, em que 20% das colaboradoras está com baixo rendimento**, comparado ao geral da empresa de 14% em baixo desempenho.
+#### 🟨 Baixa Performance
+- **Gênero e Faixa Etária:** Os fatores de gênero e faixa etária não têm diferença significativa nos resultados de performance, ambos apresentaram valores semelhantes. A **principal diferença se dá na faixa dos 50+, para o gênero feminino, em que 20% das colaboradoras está com baixo rendimento**, comparado ao geral da empresa com 14% de funcionários em baixo desempenho.
 
-- **Colaboradores com 11-15 anos de serviço têm menor desempenho:** Analisando o tempo de serviço, é possível notar um crescimento sutil no baixo desempenho com o passar dos anos, mas o pico se dá na faixa dos 11-15. Enquanto os demais períodos se encontram próximos à média geral, **11-15 anos de serviço possui 22% do total com baixo desempenho**, que passa a melhorar, chegando a 12% na faixa dos 20+ anos de trabalho.
+- **Tempo de Serviço:** Há um crescimento sutil no baixo desempenho com o passar dos anos de serviço, o pico se dá na faixa dos 11-15 anos na empresa. Enquanto os demais períodos se encontram próximos à média geral, **11-15 possui 22% do total com baixo desempenho**, que passa a melhorar com o tempo, chegando a 12% na faixa dos 20+ anos de trabalho.
 
-- **Research & Development, 11-15 anos, gênero masculino = Perfil de menor desempenho:** Dentre os departamentos, **Research & Development possui 16% de colaboradores com baixo rendimento**, isso se acentua para o período de 11-15 anos de serviço, indo para 28%. Sobe para 33% quando consideramos apenas o gênero masculino.
-
-- **Colaboradores com 0-3 e 20+ anos de serviço têm melhor performance:** Funcionários com 0-3 anos de serviço têm melhor desempenho, especialmente nos setores de Human Resources (90%) e Sales (93%). Research & Development possui 86% dos colabores com alto desempenho para esse período.
-Para o perfil com mais de 20 anos na empresa, Research & Development possui a parcela 93% com alta performance, enquanto os demais setores estão na faixa dos 80%.
+- **Departamento:** Dentre os departamentos, **Research & Development possui 16% dos colaboradores com baixo rendimento**, isso se acentua para o período de **11-15 anos de serviço, indo para 28%**. Sobe para **33% quando consideramos apenas o gênero masculino**.
 
 --
 
-#### 🟨 Satisfação
-- **Satisfação X Setor:** Os departamentos de Sales e Research & Development possuem a maior quantidade de funcionários não satisfeitos**. Em termos de proporção, juntos eles representam **30% dos colaboradores** insatisfeitos, com HR somando apenas 1,6% desse total.
+#### 🟨 Alta Performance
+- **Tempo de Serviço:** Funcionários com **0-3 anos de serviço** têm melhor desempenho, especialmente nos setores de **Human Resources (90%) e Sales (93%)**. **Research & Development possui 86% dos colabores com alto desempenho** para esse período.
+Para o perfil com **mais de 20 anos na empresa, Research & Development possui a parcela 93% com alta performance**, enquanto os demais setores estão na faixa dos 80%.
 
-- **Satisfação x Tempo para Promoção:** Associada às baixas avaliações está também a média de tempo para promoção, que pesa especialmente para o setor de Sales, que possui maior parte de insatisfeitos com **33% de colaboradores do setor** e tempo médio de **2,35 anos**, contra 1,78 de HR, mesmo ambos contando com os mesmos valores de desempenho.
+--
 
-- **Satisfação x Anos de Serviço:** 
+#### 🟨 Baixa Satisfação
+- **Gênero e Faixa Etária:** Em comparação com a média geral, não há grande disparidade no nível de satisfação por gênero ou faixa etária. 
 
+- **Tempo de Serviço:** No geral, a maior parte dos funcionários com 0 a 15 anos de serviço indicou baixa satisfação em relação à empresa. Colaboradores com 11-15 anos de serviço têm maior soma de insatisfação, 37% do total.
+
+- **Departamento:** Os departamentos de Sales e Research & Development possuem a maior quantidade de funcionários não satisfeitos**. Em termos de proporção, juntos eles representam **30% dos colaboradores** insatisfeitos, com HR somando apenas 1,6% desse total. Para além disso, também possuem maior percentual de funcionários prontos para promoção.
+
+- **Tempo para Promoção:** Associada às baixas avaliações está também a média de tempo para promoção, que pesa especialmente para o setor de Sales, que possui maior parte de insatisfeitos com **33% de colaboradores do setor** e tempo médio de **2,35 anos**, contra 1,78 de HR, mesmo ambos contando com os mesmos valores de desempenho.
+
+--
+
+#### 🟨 Alta Satisfação
+- **Tempo de Serviço:** Os colaboradores com +20 anos de serviço possuem maior contentamento em relação a empresa, 45% indicou alta satisfação.
+
+- **Departamento:** Human Resources é o setor mais satisfeito na empresa (e também o com menor tempo médio para promoção).
 
 ***
 

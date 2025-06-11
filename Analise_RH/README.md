@@ -127,10 +127,10 @@ Sobre sua relação com a empresa, considerando departamento, anos de serviço, 
 #### 📌 Departamentos
 A empresa possui 3 departamentos: Human Resources, Research & Development e Sales. Vamos verificar algumas informações por departamento, conforme tabela:
 
-| Departamento | Total Funcionários | Média Anos na Empresa | Média Anos Desde Ult. Promoção | Total para Promover | Total para Demitir |
+| Departamento | Total Funcionários | Média Anos na Empresa | Média Anos Desde Ult. Promoção | Total para Promover | Total para Desligar|
 |--------------|--------------------|-----------------------|--------------------------------|---------------------|--------------------|
 | Human Resources        | 63  | 7,24  | 1,78 | 2   | 1   |
-| Research & Development | 961 (65%)| 6,86  | 2,14 | 38  | 11  |
+| Research & Development | 961 | 6,86  | 2,14 | 38  | 11  |
 | Sales                  | 446 | 7,28  | 2,35 | 16  | 10  |
 
 <br>
@@ -149,13 +149,19 @@ Considerando os níveis de satisfação e performance por departamento, temos:
 <br>
 
 #### 💡 Insights Obtidos  
-Com base no faturamento médio mensal por loja (faturamento total ÷ 12), apenas **3 das 5 filiais** alcançaram ou superaram a meta: **Leblon, Ipanema e Botafogo**.
+Com base nos dados, podemos tirar algumas conclusões em relação à performance e satisfação dos colaboradores.
 
-#### 🟨 Ações por loja
+#### 🟨 Performance
 - **Campanhas promocionais focadas nas lojas com menor desempenho:** Promoções sazonais, descontos progressivos e ações em datas comemorativas podem ajudar a impulsionar vendas, principalmente no primeiro trimestre.
 **Resumo por loja:**
 
-#### 🟨 Ações por loja
+- **Campanhas promocionais focadas nas lojas com menor desempenho:** Promoções sazonais, descontos progressivos e ações em datas comemorativas podem ajudar a impulsionar vendas, principalmente no primeiro trimestre.
+**Resumo por loja:**
+  
+- **Campanhas promocionais focadas nas lojas com menor desempenho:** Promoções sazonais, descontos progressivos e ações em datas comemorativas podem ajudar a impulsionar vendas, principalmente no primeiro trimestre.
+**Resumo por loja:**
+
+#### 🟨 Satisfação
 - **Campanhas promocionais focadas nas lojas com menor desempenho:** Promoções sazonais, descontos progressivos e ações em datas comemorativas podem ajudar a impulsionar vendas, principalmente no primeiro trimestre.
 **Resumo por loja:**
 

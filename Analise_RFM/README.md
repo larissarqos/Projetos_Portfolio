@@ -10,7 +10,7 @@
 ## 📃 Contexto 
 Nesse projeto, analisaremos os dados de uma empresa fictícia para identificar seu desempenho nas vendas e compreender o perfil de seus clientes através da análise RFM. Os insights obtidos servirão de base para a sugestão de uma série de medidas estratégicas que poderão ser adotadas pela corporação a fim de melhorar sua receita e o relacionamento com seus consumidores.  
 
-**Caso não conheça a análise RFM, segue artigo claro e objetivo sobre o método, [leia aqui](https://link-do-artigo.com).**
+*Caso não conheça a análise RFM, segue artigo claro e objetivo sobre o método, [leia aqui](https://link-do-artigo.com).*
 
 
 ***

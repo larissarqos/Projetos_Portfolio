@@ -323,7 +323,7 @@ Os cliente fazem mais pedidos no turno da noite, mais de 50% das compras são re
 	ORDER BY total_sales DESC
 ```
 
-#### 📌 9. Qual o resultado da análise RFM para nossos clientes?
+#### 📌 10. Qual a classificação dos clientes de acordo com a análise RFM?
 Após a segmentação dos clientes com base em seu perfil de compras (recência, frequência e valor), esse foi o resultado:
 *Verificar dashboard no Power BI para melhor visualização completa da classificação.*
 
@@ -342,6 +342,7 @@ Após a segmentação dos clientes com base em seu perfil de compras (recência,
 | Potential Loyalists | 6     |
 | Can't Lose Them     | 4     | 
 
+Há muitos clientes promissores e uma boa parcela precisando de atenção, para evitar churn. Em recomendações estratégicas vamos descobrir como lidar com os clientes de acordo com sua segmentação.
 
 ```sql
 	-- Como os dados vão até 31/12/2023, vamos usar 01/01/2024 como a data de hoje, para que 2023 seja o ano mais recente analisado

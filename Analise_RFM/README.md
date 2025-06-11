@@ -1,4 +1,4 @@
-<h1 align="center"> Análise de Vendas e Comportamento dos Consumidores com Técnica RFM </h1>
+<h1 align="center"> Análise de Vendas e Clientes com Técnica RFM </h1>
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/f4ad952c-19f4-4e2a-a73c-94b8aa0facdc" alt="img" width="1100"/>

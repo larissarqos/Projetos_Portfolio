@@ -1,0 +1,36 @@
+years at company, since promotion,
+
+Age
+Attrition
+BusinessTravel	
+DailyRate
+Department
+Distance From Home
+Education
+EducationField
+EmployeeCount
+EmployeeNumber
+EnvironmentSatisfaction	
+Gender
+HourlyRate
+JobInvolvement
+JobLevel
+JobRole
+JobSatisfaction
+MaritalStatus	
+MonthlyIncome
+MonthlyRate
+Num Companies Worked
+Over18	OverTime
+PercentSalaryHike
+PerformanceRating
+RelationshipSatisfaction
+StandardHours
+StockOptionLevel
+TotalWorkingYears
+TrainingTimesLastYear
+WorkLifeBalance
+YearsAtCompany
+YearsInCurrentRole	
+YearsSinceLastPromotion
+YearsWithCurrManager"

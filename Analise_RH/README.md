@@ -143,7 +143,6 @@ Considerando os níveis de satisfação e performance por departamento, temos:
 | Research & Development | 38%             | 31%              | 31%              | 84%              | 16%               |
 | Sales                  | 39%             | 28%              | 33%              | 86%              | 14%               |
 
-
 ***
 
 <br>
@@ -156,9 +155,9 @@ Com base nos dados, podemos tirar algumas conclusões em relação à performanc
 #### 🟨 Performance
 - **Gênero e Faixa Etária não têm diferença significativa nos resultados de performance:** Os valores em performance por gênero são muito próximos, assim como por faixa etária. A **principal diferença se dá na faixa dos 50+, para o gênero feminino, em que 20% das colaboradoras está com baixo rendimento**, comparado ao geral da empresa de 14% em baixo desempenho.
 
-- **Colaboradores com 11-15 anos de serviço têm menor desempenho:** Analisando o tempo de serviço, é possível notar um crescimento sutil no baixo desempenho com o passar dos anos, mas o pico se dá na faixa dos 11-15. Enquanto os demais períodos se encontram próximos à média geral, **11-15 anos de serviço possui 22% do total com baixo desempenho**. O total passa a cair entre 16-20, chegando a 12% na faixa dos 20+ anos de trabalho.
+- **Colaboradores com 11-15 anos de serviço têm menor desempenho:** Analisando o tempo de serviço, é possível notar um crescimento sutil no baixo desempenho com o passar dos anos, mas o pico se dá na faixa dos 11-15. Enquanto os demais períodos se encontram próximos à média geral, **11-15 anos de serviço possui 22% do total com baixo desempenho**, que passa a melhorar, chegando a 12% na faixa dos 20+ anos de trabalho.
 
-- **Research & Development, 11-15 anos, gênero masculino = Perfil de menor desempenho:** Dentre os departamentos, Research & Development possui 16% de colaboradores com baixo rendimento, isso se acentua para o período de 11-15 anos de serviço, indo para 28%. Sobe para 33% quando consideramos apenas o gênero masculino.
+- **Research & Development, 11-15 anos, gênero masculino = Perfil de menor desempenho:** Dentre os departamentos, **Research & Development possui 16% de colaboradores com baixo rendimento**, isso se acentua para o período de 11-15 anos de serviço, indo para 28%. Sobe para 33% quando consideramos apenas o gênero masculino.
 
 - **Colaboradores com 0-3 e 20+ anos de serviço têm melhor performance:** Funcionários com 0-3 anos de serviço têm melhor desempenho, especialmente nos setores de Human Resources (90%) e Sales (93%). Research & Development possui 86% dos colabores com alto desempenho para esse período.
 Para o perfil com mais de 20 anos na empresa, Research & Development possui a parcela 93% com alta performance, enquanto os demais setores estão na faixa dos 80%.
@@ -166,14 +165,12 @@ Para o perfil com mais de 20 anos na empresa, Research & Development possui a pa
 --
 
 #### 🟨 Satisfação
-- **Campanhas promocionais focadas nas lojas com menor desempenho:** Promoções sazonais, descontos progressivos e ações em datas comemorativas podem ajudar a impulsionar vendas, principalmente no primeiro trimestre.
-**Resumo por loja:**
+- **Satisfação X Setor:** Os departamentos de Sales e Research & Development possuem a maior quantidade de funcionários não satisfeitos**. Em termos de proporção, juntos eles representam **30% dos colaboradores** insatisfeitos, com HR somando apenas 1,6% desse total.
 
---
+- **Satisfação x Tempo para Promoção:** Associada às baixas avaliações está também a média de tempo para promoção, que pesa especialmente para o setor de Sales, que possui maior parte de insatisfeitos com **33% de colaboradores do setor** e tempo médio de **2,35 anos**, contra 1,78 de HR, mesmo ambos contando com os mesmos valores de desempenho.
 
-#### 🟨 Alta Satisfação
-- **Campanhas promocionais focadas nas lojas com menor desempenho:** Promoções sazonais, descontos progressivos e ações em datas comemorativas podem ajudar a impulsionar vendas, principalmente no primeiro trimestre.
-**Resumo por loja:**
+- **Satisfação x Anos de Serviço:** 
+
 
 ***
 

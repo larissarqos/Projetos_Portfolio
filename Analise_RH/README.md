@@ -66,7 +66,7 @@ A base de dados está em inglês e possui a tabela analytics_data. Estão listad
 ### 📍 Compreendendo os Dados
 Aqui, vamos analisar as diferentes partes que compoem a empresa e suas características, sendo elas: o perfil dos funcionários e os setores da empresa.
 
-#### 📌 1. Perfil dos funcionários
+#### 📌 Perfil dos funcionários
 A empresa possui **1470 funcionários**. Considerando suas características de **gênero**, **faixa etária**, **estado civil** e anos na empresa, temos:
 
 **Gênero -** Maioria é do gênero masculino.
@@ -123,7 +123,7 @@ Sobre sua relação com a empresa, considerando departamento, anos de serviço, 
 
 --
 
-#### 📌 2. Departamentos da Empresa
+#### 📌 Departamentos da Empresa
 A empresa possui 3 departamentos: Human Resources, Research & Development e Sales. Vamos verificar algumas informações por departamento, conforme tabela:
 
 | Departamento | Total Funcionários | Média Anos na Empresa | Média Anos Desde Ult. Promoção | Total para Promover | Total para Demitir |
@@ -132,57 +132,31 @@ A empresa possui 3 departamentos: Human Resources, Research & Development e Sale
 | Research & Development | 961 | 6,86  | 2,14 | 38  | 11  |
 | Sales                  | 446 | 7,28  | 2,35 | 16  | 10  |
 
---
-
-#### 📌 3. Nível de Satisfação
-Quase 40% dos funcionários está muito satisfeito com a empresa. Média e Baixa satisfação se encontram praticamente empatados.
-
-| Nível Satisfação | Total     |
-|------------------|-----------|
-| Alto             | 569 (39%) |
-| Médio            | 442 (30%) |
-| Baixo            | 459 (31%) |
-
---
-
-#### 📌 4. Nível de Performance
-A maior parte dos funcionários possui bons resultados em performance.
-
-| Performance | Total       |
-|-------------|-------------|
-| Alta        | 1.244 (85%) |
-| Baixa       | 226   (15%) |
 
 
-#### 📌 3. Nível de Satisfação
-Considerando o nível de satisfação por departamento, temos:
+Considerando os níveis de satisfação e performance por departamento, temos:
 
-| Departamento           | Alta Satisfação | Média Satisfação | Baixa Satisfação |
-|------------------------|-----------------|------------------|------------------|
-| Human Resources        | 31  (49%)       | 15  (24%)        | 17  (27%)        |
-| Research & Development | 366 (38%)       | 300 (31%)        | 295 (31%)        |
-| Sales                  | 172 (39%)       | 127 (28%)        | 147 (33%)        |
-
-  
---
+| Departamento           | Alta Satisfação | Média Satisfação | Baixa Satisfação | Alta Performance | Baixa Performance |
+|------------------------|-----------------|------------------|------------------| -----------------|-------------------|
+| Human Resources        | 31  (49%)       | 15  (24%)        | 17  (27%)        | 54               | 9 |
+| Research & Development | 366 (38%)       | 300 (31%)        | 295 (31%)        | 805              | 156 |
+| Sales                  | 172 (39%)       | 127 (28%)        | 147 (33%)        | 385              | 61 |
 
 
---
+***
 
-#### 📌 4. As lojas atingiram a meta mensal estabelecida de R$7.000,00? **  
+<br>
+
+#### 💡 Insights Obtidos  
 Com base no faturamento médio mensal por loja (faturamento total ÷ 12), apenas **3 das 5 filiais** alcançaram ou superaram a meta: **Leblon, Ipanema e Botafogo**.
 
+#### 🟨 Ações por loja
+- **Campanhas promocionais focadas nas lojas com menor desempenho:** Promoções sazonais, descontos progressivos e ações em datas comemorativas podem ajudar a impulsionar vendas, principalmente no primeiro trimestre.
 **Resumo por loja:**
 
-- **Leblon** – R$10.388,30/mês: Melhor desempenho do ano. Abaixo da meta apenas em setembro, com crescimento contínuo a partir de outubro.
-
-- **Ipanema** – R$8.370,72/mês: Crescimento a partir de março. Consistente no restante do ano, sempre próxima ou acima da meta.
-
-- **Botafogo** – R$7.600,00/mês: Regular ao longo do ano, exceto em julho.
-
-- **Barra** – R$6.115,42/mês: Acima da meta apenas em julho, novembro e dezembro. Desempenho fraco em setembro.
-
-- **Tijuca** – R$5.610,17/mês: Atingiu ou superou a meta em apenas 5 meses. Início e fim do ano com queda nas vendas.
+#### 🟨 Ações por loja
+- **Campanhas promocionais focadas nas lojas com menor desempenho:** Promoções sazonais, descontos progressivos e ações em datas comemorativas podem ajudar a impulsionar vendas, principalmente no primeiro trimestre.
+**Resumo por loja:**
 
 ***
 

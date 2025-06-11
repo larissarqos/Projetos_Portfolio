@@ -69,15 +69,13 @@ Aqui, vamos analisar as diferentes partes que compoem a empresa e suas caracter�
 #### 📌 1. Perfil dos funcionários
 A empresa possui **1470 funcionários**. Considerando suas características de **gênero**, **faixa etária**, **estado civil** e anos na empresa, temos:
 
-**Gênero**  
-Maioria é do gênero masculino.
+**Gênero -** Maioria é do gênero masculino.
 - **Homens:** 882 (60%)
 - **Mulheres:** 588 (40%)
 
 --
 
-**Faixa Etária**  
-Maioria entre 31-50 anos.
+**Faixa Etária -** Maioria entre 31-50 anos.
 - **31-40:** 619 ()
 - **41-50:** 322 ()
 - **26-30:** 263 ()
@@ -86,8 +84,7 @@ Maioria entre 31-50 anos.
 
 --
 
-**Estado Civil**  
-Maioria é casado.
+**Estado Civil -** Maioria é casado.
 - **Casado:** 673 (46%)
 - **Solteiro:** 470 (32%)
 - **Divorciado:** 327 (22%)
@@ -96,16 +93,14 @@ Maioria é casado.
 
 Sobre sua relação com a empresa, considerando departamento, anos de serviço, nível de desempenho e satisfação, temos:
 
-**Departamento**  
-Maior parte está entre 0 e 7 anos na empresa.
+**Departamento -** Research & Development possui 65% dos funcionários.
 - **Research & Development:** 961
 - **Human Resources:** 63
 - Sales:** 446
 
 --
 
-**Anos na Serviço**  
-Maior parte está entre 0 e 7 anos na empresa.
+**Anos na Serviço -** Maior parte está entre 0 e 7 anos na empresa.
 - **4-7:** 472 ()
 - **0-3:** 470 ()
 - **8-10:** 282 ()
@@ -115,13 +110,13 @@ Maior parte está entre 0 e 7 anos na empresa.
 
 --
 
-**Performance**
+**Performance -** A maior parte dos funcionários possui bons resultados em performance.
 - **Alta:** 85%
 - **Baixa:** 15%
   
 --
 
-**Nível Satisfação** 
+**Nível Satisfação -** Quase 40% dos funcionários está muito satisfeito com a empresa. Média e Baixa satisfação se encontram praticamente empatados.
 - **Alto:** 39%
 - **Médio:** 30%
 - **Baixo:** 31%

@@ -129,9 +129,9 @@ A empresa possui 3 departamentos: Human Resources, Research & Development e Sale
 
 | Departamento | Total Funcionários | Média Anos na Empresa | Média Anos Desde Ult. Promoção | Total para Promover | Total para Desligar|
 |--------------|--------------------|-----------------------|--------------------------------|---------------------|--------------------|
-| Human Resources        | 63  | 7,24  | 1,78 | 2   | 1   |
-| Research & Development | 961 | 6,86  | 2,14 | 38  | 11  |
-| Sales                  | 446 | 7,28  | 2,35 | 16  | 10  |
+| Human Resources        | 63       | 7,24                  | 1,78                           | 2                   | 1                  |
+| Research & Development | 961      | 6,86                  | 2,14                           | 38                  | 11                 |
+| Sales                  | 446      | 7,28                  | 2,35                           | 16                  | 10                 |
 
 <br>
 
@@ -139,9 +139,9 @@ Considerando os níveis de satisfação e performance por departamento, temos:
 
 | Departamento           | Alta Satisfação | Média Satisfação | Baixa Satisfação | Alta Performance | Baixa Performance |
 |------------------------|-----------------|------------------|------------------| -----------------|-------------------|
-| Human Resources        | 31  (49%)       | 15  (24%)        | 17  (27%)        | 54               | 9 |
-| Research & Development | 366 (38%)       | 300 (31%)        | 295 (31%)        | 805              | 156 |
-| Sales                  | 172 (39%)       | 127 (28%)        | 147 (33%)        | 385              | 61 |
+| Human Resources        | 49%             | 24%              | 27%              | 86%              | 14%               |
+| Research & Development | 38%             | 31%              | 31%              | 84%              | 16%               |
+| Sales                  | 39%             | 28%              | 33%              | 86%              | 14%               |
 
 
 ***
@@ -150,6 +150,7 @@ Considerando os níveis de satisfação e performance por departamento, temos:
 
 #### 💡 Insights Obtidos  
 Com base nos dados, podemos tirar algumas conclusões em relação à performance e satisfação dos colaboradores.
+*Os insights foram obtidos com base na análise dos dados através dos gráficos. Por favor, abrir o dashboard no Power BI para acompanhar as conclusões*
 
 #### 🟨 Performance
 - **Campanhas promocionais focadas nas lojas com menor desempenho:** Promoções sazonais, descontos progressivos e ações em datas comemorativas podem ajudar a impulsionar vendas, principalmente no primeiro trimestre.

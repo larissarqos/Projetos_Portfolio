@@ -116,7 +116,7 @@ FROM RETAIL_SALES
 --
 
 #### 📌  6. Qual o perfil dos clientes?  
-Contamos com homens e mulheres, de 18 a +50 anos. O perfil majoritário é de mulheres +50 entre 41 e +50 anos.
+Contamos com homens e mulheres, de 18 a +50 anos. O perfil majoritário é de mulheres entre 41 e +50 anos.
 ```sql
 SELECT
 	gender,
@@ -249,8 +249,9 @@ As categorias mais lucrativa é Clothing.
 ```
 --
 
-#### 📌 8. Quais os 3 meses de pior desempenho em cada ano, considerando média de vendas e faturamento?  
-Os piores meses de 2022 foram: fevereiro, junho e agosto. Já em 2023 foram janeiro, março e abril.
+#### 📌 8. Quais os 3 meses de pior desempenho em cada ano, considerando média de vendas e faturamento?
+**2022:** Fevereiro, junho e agosto.  
+**2023:** Janeiro, Março e Abril.
 
 ```sql
 	WITH monthly_revenue AS (

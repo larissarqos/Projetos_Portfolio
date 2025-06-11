@@ -74,7 +74,8 @@ A base de dados está em inglês e se encontra em anexo como "retail_sales.csv".
 ### 🔎 Análise exploratória dos dados
 
 #### 📌 1. Qual o período avaliado?  
-O período avaliado é de 01/01/2022 a 31/12/2023
+O período avaliado é de 01/01/2022 a 31/12/2023.
+
 ```sql
 SELECT 
     MIN(sale_date) AS start_date,
@@ -84,7 +85,8 @@ FROM RETAIL_SALES
 --
 
 #### 📌 2. Qual o total de vendas?  
-Contamos com 1997 vendas
+Contamos com 1997 vendas.
+
 ```sql
 SELECT COUNT(*) AS total_sales
 FROM RETAIL_SALES
@@ -92,7 +94,8 @@ FROM RETAIL_SALES
 --
 
 #### 📌 3. Qual o faturamento total?  
-O faturamento total é de 911.720 dólares
+O faturamento total é de 911.720 dólares.
+
 ```sql
 SELECT SUM(total_sale) AS revenue
 FROM RETAIL_SALES
@@ -100,7 +103,8 @@ FROM RETAIL_SALES
 --
 
 #### 📌  4. Quais são as categorias dos nossos produtos?  
-Contamos com 3 categorias: Clothing, Eletronics e Beauty
+
+Contamos com 3 categorias: Clothing, Eletronics e Beauty.
 ```sql
 SELECT DISTINCT category
 FROM RETAIL_SALES
@@ -108,7 +112,8 @@ FROM RETAIL_SALES
 --
 
 #### 📌  5. Qual o total de clientes?  
-Contamos com 155 clientes
+Contamos com 155 clientes.
+
 ```sql
 SELECT COUNT(DISTINCT customer_id) AS total_customers
 FROM RETAIL_SALES
@@ -117,6 +122,7 @@ FROM RETAIL_SALES
 
 #### 📌  6. Qual o perfil dos clientes?  
 Contamos com homens e mulheres, de 18 a +50 anos. O perfil majoritário é de mulheres entre 41 e +50 anos.
+
 ```sql
 SELECT
 	gender,
@@ -133,9 +139,17 @@ ORDER BY total_customers DESC
 
 ### 📍 Solução de problemas de negócios
 Aqui, serão respondidas uma série de perguntas de negócio para entendermos os principais fatores que
-impactam as vendas e faturamento, considerando o perfil dos clientes, categoria dos produtos e o período de venda
+impactam as vendas e faturamento, considerando o perfil dos clientes, categoria dos produtos e o período de venda.
 
 #### 📌 1. Indique o total de vendas e faturamento de cada categoria.
+
+| Categoria  | Total Vendas | Total Faturamento |
+|------------|--------------|-------------------|
+| Clothing   | 714          | $315.500          |
+| Eletronics | 674          | $309.500          |
+| Beauty     | 609          | $286.730          |
+
+
 ```sql
 	SELECT category,
 		COUNT(*) AS total_sales,
@@ -148,7 +162,7 @@ impactam as vendas e faturamento, considerando o perfil dos clientes, categoria 
 --
 
 #### 📌 2. Qual a categoria mais lucrativa?
-As categorias mais lucrativa é Clothing.
+As categorias mais lucrativa é Clothing, 250.730 doláres (quase 35% do lucro total da empresa).
 
 ```sql
 	SELECT category,
@@ -160,7 +174,7 @@ As categorias mais lucrativa é Clothing.
 --
 
 #### 📌 3. Qual o perfil de cliente de maior valor para a empresa?
--- O perfil de maior valor é do gênero feminino, com faixa etária entre 31-50 anos.
+O perfil de maior valor é do gênero feminino, com faixa etária entre 31-50 anos, responsável por 32% da receita total.
 ```sql
 	SELECT TOP 3 gender,
 		age_range,
@@ -173,7 +187,14 @@ As categorias mais lucrativa é Clothing.
 ```
 --
 
-#### 📌 4. Qual o perfil de clientes de maior valor em cada categoria?
+#### 📌 4. Qual o perfil de clientes de maior valor em cada categoria
+
+| Categoria  | Perfil        | Total Faturamento |
+|------------|---------------|-------------------|
+| Clothing   | Female, 41-50 | $315.500          |
+| Eletronics | Male, 41-50   | $309.500          |
+| Beauty     | Female, 41-50 | $286.730          |
+
 ```sql
 	SELECT
 	    category,
@@ -195,7 +216,8 @@ As categorias mais lucrativa é Clothing.
 ```
 --
 
-#### 📌 5. Indique o desempenho ano a ano, considerando total de vendas, faturamento, custo e lucro.
+#### 📌 5. Indique o desempenho ano a ano, considerando total de vendas, faturamento, custo e lucro.  
+*Acompanhar no dashboard, no Power BI*
 
 ```sql
 	SELECT DATEPART(yyyy, sale_date) AS year,
@@ -209,7 +231,8 @@ As categorias mais lucrativa é Clothing.
 ```
 --
 
-#### 📌 6. Indique o total de vendas e faturamento médio de cada mês, por ano
+#### 📌 6. Indique o total de vendas e faturamento médio de cada mês, por ano  
+*Acompanhar no dashboard, no Power BI*
 
 ```sql
 	SELECT
@@ -224,8 +247,8 @@ As categorias mais lucrativa é Clothing.
 --
 
 #### 📌 7. Quais os 3 meses de melhor desempenho em cada ano, considerando média de vendas e faturamento?  
-**2022:** Outubro, novembro e dezembro.  
-**2023:** Setembro, outubro e dezembro.
+- **2022:** Outubro, novembro e dezembro.  
+- **2023:** Setembro, outubro e dezembro.
 
 ```sql
 	WITH monthly_revenue AS (
@@ -250,8 +273,8 @@ As categorias mais lucrativa é Clothing.
 --
 
 #### 📌 8. Quais os 3 meses de pior desempenho em cada ano, considerando média de vendas e faturamento?
-**2022:** Fevereiro, junho e agosto.  
-**2023:** Janeiro, Março e Abril.
+- **2022:** Fevereiro, junho e agosto.  
+- **2023:** Janeiro, Março e Abril.
 
 ```sql
 	WITH monthly_revenue AS (
@@ -277,6 +300,7 @@ As categorias mais lucrativa é Clothing.
 
 #### 📌 9. Qual o turno preferido dos clientes para realizar compras em nossa loja?  
 Os cliente fazem mais pedidos no turno da noite, mais de 50% das compras são realizadas nesse período.
+
 ```sql
 	WITH sales_period
 	AS(
@@ -294,6 +318,84 @@ Os cliente fazem mais pedidos no turno da noite, mais de 50% das compras são re
 	FROM sales_period
 	GROUP BY period
 	ORDER BY total_sales DESC
+```
+
+#### 📌 9. Qual o resultado da análise RFM para nossos clientes?
+Após a segmentação dos clientes com base em seu perfil de compras (recência, frequência e valor), esse foi o resultado:
+*Verificar dashboard no Power BI para melhor visualização completa da classificação.*
+
+| Classificação       | Total |
+|---------------------|-------|
+| Promising           | 22    |
+| At Risk             | 19    |
+| Needs Attention     | 19    |
+| Others              | 14    | 
+| Hibernating         | 13    |
+| Loyal Customers     | 13    | 
+| About to Sleep      | 12    | 
+| Champions           | 10    | 
+| Lost                | 8     | 
+| Recent Customers    | 7     | 
+| Potential Loyalists | 6     |
+| Can't Lose Them     | 4     | 
+
+
+```sql
+	-- Como os dados vão até 31/12/2023, vamos usar 01/01/2024 como a data de hoje, para que 2023 seja o ano mais recente analisado
+	DECLARE @today_date AS DATE = '2024-01-01';
+	
+	-- Definindo os valores de recency, frequency e monetary de cada cliente
+	WITH base AS (
+	  SELECT
+	    customer_id,
+	    DATEDIFF(day, MAX(sale_date), @today_date) AS recency,
+	    COUNT(transactions_id) AS frequency,
+	    SUM(total_sale) AS monetary
+	  FROM RETAIL_SALES
+	  WHERE YEAR(sale_date) = (SELECT MAX(YEAR(sale_date)) FROM RETAIL_SALES)
+	  GROUP BY customer_id
+	),
+	
+	-- Divisão dos valores em quintis, através de NTILE(5). Cada parâmetro (recency, frequency e monetary) receberá uma nota de 1 a 5
+	-- 1 = pior desempenho; 5 = melhor desempenho
+	rfm_score AS (
+	  SELECT
+	    customer_id,
+	    recency,
+	    frequency,
+	    monetary,
+	
+	    NTILE(5) OVER (ORDER BY recency DESC) AS R_score,
+	    NTILE(5) OVER (ORDER BY frequency ASC) AS F_score,
+	    NTILE(5) OVER (ORDER BY monetary ASC) AS M_score
+	  FROM base
+	),
+	
+	-- Criando o RFM geral, que receberá uma combinação das notas de cada parâmetro
+	rfm_segment AS (
+	  SELECT *,
+	    CAST(R_score AS VARCHAR) + CAST(F_score AS VARCHAR) + CAST(M_score AS VARCHAR) AS RFM
+	  FROM rfm_score
+	)
+	
+	-- Atribuindo uma classificação a cada nota
+	SELECT *,
+	  CASE
+	    WHEN R_score = 5 AND F_score = 5 AND M_score = 5 THEN 'Champions'
+	    WHEN R_score >= 4 AND F_score >= 4 AND M_score >= 4 THEN 'Loyal Customers'
+	    WHEN R_score >= 5 AND F_score BETWEEN 2 AND 3 AND M_score >= 3 THEN 'Potential Loyalists'
+	    WHEN R_score = 5 AND F_score <= 3 AND M_score <= 4 THEN 'Recent Customers'
+	    WHEN R_score >= 4 AND F_score <= 5 AND M_score <= 5 THEN 'Promising'
+	    WHEN R_score BETWEEN 2 AND 3 AND F_score BETWEEN 2 AND 4 AND M_score BETWEEN 2 AND 3 THEN 'Needs Attention'
+	    WHEN R_score = 2 AND F_score <= 3 AND M_score <= 3 THEN 'About to Sleep'
+	    WHEN R_score BETWEEN 2 AND 3 AND F_score >= 4 AND M_score >= 4 THEN 'At Risk'
+	    WHEN R_score <= 2 AND F_score BETWEEN 3 AND 4 AND M_score >= 4 THEN 'Cant Lose Them'
+	    WHEN R_score <= 2 AND F_score <= 2 AND M_score >= 2 THEN 'Hibernating'
+	    WHEN R_score = 1 AND F_score = 1 AND M_score = 1 THEN 'Lost'
+	    ELSE 'Others'
+	  END AS segment
+	FROM rfm_segment
+	ORDER BY customer_id
 ```
 
 ***

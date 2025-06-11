@@ -97,17 +97,17 @@ Sobre sua relação com a empresa, considerando departamento, anos de serviço, 
 **Departamento -** Research & Development possui 65% dos funcionários.
 - **Research & Development:** 961
 - **Human Resources:** 63
-- Sales:** 446
+- **Sales:** 446
 
 <br>
 
 **Anos na Serviço -** Maior parte está entre 0 e 7 anos na empresa.
-- **4-7:** 472 ()
-- **0-3:** 470 ()
-- **8-10:** 282 ()
-- **11-15:** 108 ()
-- **16-20:** 72 ()
-- **20+:** 66 ()
+- **4-7:** 32%
+- **0-3:** 32%
+- **8-10:** 19%
+- **11-15:** 7%
+- **16-20:** 5%
+- **20+:** 4%
 
 <br>
 

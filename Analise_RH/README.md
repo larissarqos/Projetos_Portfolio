@@ -66,8 +66,6 @@ A base de dados está em inglês e possui a tabela analytics_data. Estão listad
 ### 📍 Compreendendo os Dados
 Aqui, vamos analisar as diferentes partes que compoem a empresa e suas características, sendo elas: o perfil dos funcionários e os setores da empresa.
 
-<br>
-
 #### 📌 Perfil dos funcionários
 A empresa possui **1470 funcionários**. Considerando suas características de **gênero**, **estado civil** e **faixa etária**, temos:
 
@@ -85,11 +83,11 @@ A empresa possui **1470 funcionários**. Considerando suas características de *
 <br>
 
 **Faixa Etária -** Maioria entre 31-50 anos.
-- **31-40:** 619 ()
-- **41-50:** 322 ()
-- **26-30:** 263 ()
-- **50+:** 143 ()
-- **18-25:** 123 ()
+- **31-40:** 42%
+- **41-50:** 22%
+- **26-30:** 18%
+- **50+:** 10%
+- **18-25:** 8%
 
 --
 

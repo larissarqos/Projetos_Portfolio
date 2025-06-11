@@ -132,7 +132,7 @@ A empresa possui 3 departamentos: Human Resources, Research & Development e Sale
 | Research & Development | 961 | 6,86  | 2,14 | 38  | 11  |
 | Sales                  | 446 | 7,28  | 2,35 | 16  | 10  |
 
-
+<br>
 
 Considerando os níveis de satisfação e performance por departamento, temos:
 

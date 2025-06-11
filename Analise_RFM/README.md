@@ -152,6 +152,7 @@ impactam as vendas e faturamento, considerando o perfil dos clientes, categoria 
 | Eletronics | 674          | $309.500          |
 | Beauty     | 609          | $286.730          |
 
+<br>
 
 ```sql
 	SELECT category,
@@ -165,7 +166,7 @@ impactam as vendas e faturamento, considerando o perfil dos clientes, categoria 
 --
 
 #### 📌 2. Qual a categoria mais lucrativa?
-As categorias mais lucrativa é Clothing, 250.730 doláres (quase 35% do lucro total da empresa).
+A categoria mais lucrativa é** Clothing, 250.730 doláres (quase 35% do lucro total da empresa)**.
 
 ```sql
 	SELECT category,
@@ -177,7 +178,7 @@ As categorias mais lucrativa é Clothing, 250.730 doláres (quase 35% do lucro t
 --
 
 #### 📌 3. Qual o perfil de cliente de maior valor para a empresa?
-O perfil de maior valor é do gênero feminino, com faixa etária entre 31-50 anos, responsável por 32% da receita total.
+O perfil de maior valor é do gênero **feminino, com faixa etária entre 31-50 anos**, responsável por **32% da receita total**.
 ```sql
 	SELECT TOP 3 gender,
 		age_range,
@@ -190,13 +191,15 @@ O perfil de maior valor é do gênero feminino, com faixa etária entre 31-50 an
 ```
 --
 
-#### 📌 4. Qual o perfil de clientes de maior valor em cada categoria
+#### 📌 4. Qual o perfil de clientes de maior valor em cada categoria?
 
 | Categoria  | Perfil        | Total Faturamento |
 |------------|---------------|-------------------|
 | Clothing   | Female, 41-50 | $315.500          |
 | Eletronics | Male, 41-50   | $309.500          |
 | Beauty     | Female, 41-50 | $286.730          |
+
+<br>
 
 ```sql
 	SELECT
@@ -220,7 +223,7 @@ O perfil de maior valor é do gênero feminino, com faixa etária entre 31-50 an
 --
 
 #### 📌 5. Indique o desempenho ano a ano, considerando total de vendas, faturamento, custo e lucro.  
-*Acompanhar no dashboard, no Power BI*
+*Acompanhar dashboard no Power BI*
 
 ```sql
 	SELECT DATEPART(yyyy, sale_date) AS year,
@@ -235,7 +238,7 @@ O perfil de maior valor é do gênero feminino, com faixa etária entre 31-50 an
 --
 
 #### 📌 6. Indique o total de vendas e faturamento médio de cada mês, por ano  
-*Acompanhar no dashboard, no Power BI*
+*Acompanhar dashboard no Power BI*
 
 ```sql
 	SELECT
@@ -325,7 +328,6 @@ Os cliente fazem mais pedidos no turno da noite, mais de 50% das compras são re
 
 #### 📌 10. Qual a classificação dos clientes de acordo com a análise RFM?
 Após a segmentação dos clientes com base em seu perfil de compras (recência, frequência e valor), esse foi o resultado:
-*Verificar dashboard no Power BI para melhor visualização completa da classificação.*
 
 | Classificação       | Total |
 |---------------------|-------|
@@ -342,7 +344,9 @@ Após a segmentação dos clientes com base em seu perfil de compras (recência,
 | Potential Loyalists | 6     |
 | Can't Lose Them     | 4     | 
 
-Há muitos clientes promissores e uma boa parcela precisando de atenção, para evitar churn. Em recomendações estratégicas vamos descobrir como lidar com os clientes de acordo com sua segmentação.
+*Verificar dashboard no Power BI para visualização completa da classificação.*
+
+<br>
 
 ```sql
 	-- Como os dados vão até 31/12/2023, vamos usar 01/01/2024 como a data de hoje, para que 2023 seja o ano mais recente analisado
@@ -406,7 +410,7 @@ Há muitos clientes promissores e uma boa parcela precisando de atenção, para 
 
 <br>
 
-### 📈 Recomendações Estratégicas
+### 🚀 Recomendações Estratégicas
 
 
 ***

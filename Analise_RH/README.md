@@ -94,7 +94,17 @@ Maioria é casado.
 
 --
 
-**Anos na Empresa**  
+Sobre sua relação com a empresa, considerando departamento, anos de serviço, nível de desempenho e satisfação, temos:
+
+**Departamento**  
+Maior parte está entre 0 e 7 anos na empresa.
+- **Research & Development:** 961
+- **Human Resources:** 63
+- Sales:** 446
+
+--
+
+**Anos na Serviço**  
 Maior parte está entre 0 e 7 anos na empresa.
 - **4-7:** 472 ()
 - **0-3:** 470 ()
@@ -102,6 +112,19 @@ Maior parte está entre 0 e 7 anos na empresa.
 - **11-15:** 108 ()
 - **16-20:** 72 ()
 - **20+:** 66 ()
+
+--
+
+**Performance**
+- **Alta:** 85%
+- **Baixa:** 15%
+  
+--
+
+**Nível Satisfação** 
+- **Alto:** 39%
+- **Médio:** 30%
+- **Baixo:** 31%
 
 --
 

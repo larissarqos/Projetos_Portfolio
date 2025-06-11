@@ -149,20 +149,28 @@ Considerando os níveis de satisfação e performance por departamento, temos:
 <br>
 
 #### 💡 Insights Obtidos  
-Com base nos dados, podemos tirar algumas conclusões em relação à performance e satisfação dos colaboradores.
+Com base nos dados, podemos tirar algumas conclusões em relação à performance e satisfação dos colaboradores.  
 *Os insights foram obtidos com base na análise dos dados através dos gráficos. Por favor, abrir o dashboard no Power BI para acompanhar as conclusões*
 
 #### 🟨 Performance
-- **Campanhas promocionais focadas nas lojas com menor desempenho:** Promoções sazonais, descontos progressivos e ações em datas comemorativas podem ajudar a impulsionar vendas, principalmente no primeiro trimestre.
-**Resumo por loja:**
+- **Gênero e Faixa Etária não têm diferença significativa nos resultados de performance:** Os valores em performance por gênero são muito próximos, assim como por faixa etária. A **principal diferença se dá na faixa dos 50+, para o gênero feminino, em que 20% das colaboradoras está com baixo rendimento**, comparado ao geral da empresa de 14% em baixo desempenho.
 
-- **Campanhas promocionais focadas nas lojas com menor desempenho:** Promoções sazonais, descontos progressivos e ações em datas comemorativas podem ajudar a impulsionar vendas, principalmente no primeiro trimestre.
-**Resumo por loja:**
-  
-- **Campanhas promocionais focadas nas lojas com menor desempenho:** Promoções sazonais, descontos progressivos e ações em datas comemorativas podem ajudar a impulsionar vendas, principalmente no primeiro trimestre.
-**Resumo por loja:**
+- **Colaboradores com 11-15 anos de serviço têm menor desempenho:** Analisando o tempo de serviço, é possível notar um crescimento sutil no baixo desempenho com o passar dos anos, mas o pico se dá na faixa dos 11-15. Enquanto os demais períodos se encontram próximos à média geral, **11-15 anos de serviço possui 22% do total com baixo desempenho**. O total passa a cair entre 16-20, chegando a 12% na faixa dos 20+ anos de trabalho.
+
+- **Research & Development, 11-15 anos, gênero masculino = Perfil de menor desempenho:** Dentre os departamentos, Research & Development possui 16% de colaboradores com baixo rendimento, isso se acentua para o período de 11-15 anos de serviço, indo para 28%. Sobe para 33% quando consideramos apenas o gênero masculino.
+
+- **Colaboradores com 0-3 e 20+ anos de serviço têm melhor performance:** Funcionários com 0-3 anos de serviço têm melhor desempenho, especialmente nos setores de Human Resources (90%) e Sales (93%). Research & Development possui 86% dos colabores com alto desempenho para esse período.
+Para o perfil com mais de 20 anos na empresa, Research & Development possui a parcela 93% com alta performance, enquanto os demais setores estão na faixa dos 80%.
+
+--
 
 #### 🟨 Satisfação
+- **Campanhas promocionais focadas nas lojas com menor desempenho:** Promoções sazonais, descontos progressivos e ações em datas comemorativas podem ajudar a impulsionar vendas, principalmente no primeiro trimestre.
+**Resumo por loja:**
+
+--
+
+#### 🟨 Alta Satisfação
 - **Campanhas promocionais focadas nas lojas com menor desempenho:** Promoções sazonais, descontos progressivos e ações em datas comemorativas podem ajudar a impulsionar vendas, principalmente no primeiro trimestre.
 **Resumo por loja:**
 

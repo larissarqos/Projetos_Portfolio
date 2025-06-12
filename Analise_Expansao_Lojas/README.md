@@ -330,29 +330,45 @@ ORDER BY receita_total DESC
 ```
 <br>
 
-### 📈 Recomendações Estratégicas
+### 🚀 Recomendações Estratégicas
 De acordo com a análise dos dados, segue as melhores cidades para novas lojas (menor custo e maiores estimativas de receita e quantidade de clientes) e os produtos de melhor desempenho:
 
-#### 🟦 Cidades:
-   * **Delhi:** Segunda maior quantidade de clientes (68); Maior estimativa de consumidores (7,7 milhões); Média de aluguel baixa (330);
-   * **Pune:** Terceira maior quantidade de clientes (52); Maior receita média por clientes (24 mil); Média de aluguel baixa (294);
-   * **Jaipur:** Maior quantidade de clientes (69); Receita média considerável (11 mil); Menor média de aluguel (156);
-   * **Chennai:** Quarta maior quantidade de clientes (42); Segunda maior receita média (22 mil); Estimativa de consumidores considerável (2,78 milhões).
-     
-#### 🟦 Produtos:
-   * **Cold Brew Coffee Pack (6 Bottles):** Possui maior quantidade de vendas (1326) e gera também a maior receita (1.193.400);
-   * **Coffee Beans (500g):** Terceira maior quantidade de vendas (1218) e segunda maior receita (730.800);
-   * **Ground Espresso Coffee (250g):** Segunda maior quantidade de clientes (1271) e quarta maior receita (444.850);
-   * **Instante Coffee Powder (100g):** Alta quantidade de vendas (1226) e faturamento considerável (306.500);
-   * **Coffee Gift Hamper:** Apesar da baixa quantidade de vendas comparado aos produtos anteriores (270), gerou a terceira maior receita (486.000).
+#### 🟦 Cidades
+
+**Delhi**  
+Segunda maior quantidade de clientes (68); Maior estimativa de consumidores (7,7 milhões); Média de aluguel baixa (330).  
+
+**Pune**  
+Terceira maior quantidade de clientes (52); Maior receita média por clientes (24 mil); Média de aluguel baixa (294).  
+
+**Jaipur**  
+Maior quantidade de clientes (69); Receita média considerável (11 mil); Menor média de aluguel (156).  
+
+**Chennai**  
+Quarta maior quantidade de clientes (42); Segunda maior receita média (22 mil); Estimativa de consumidores considerável (2,78 milhões).
+
+--
+
+#### 🟦 Produtos
+
+**Cold Brew Coffee Pack (6 Bottles)**  
+Maior quantidade de vendas (1.326) e maior receita (1.193.400 de dólares).  
+
+**Coffee Beans (500g)**  
+Terceira maior quantidade de vendas (1.218) e segunda maior receita (730.800).  
+
+**Ground Espresso Coffee (250g)** Segunda maior quantidade de clientes (1271) e quarta maior receita (444.850).
+
+**Instante Coffee Powder (100g)**  
+Alta quantidade de vendas (1226) e faturamento considerável (306.500).  
+
+**Coffee Gift Hamper**  
+Apesar da baixa quantidade de vendas comparado aos produtos anteriores (270), gerou a terceira maior receita (486.000).
 
 ***
 
 <br>
 
-### 🚀 Impacto Esperado
-
-#### 🟩
 
 ***
 

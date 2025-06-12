@@ -336,16 +336,16 @@ De acordo com a análise dos dados, segue as melhores cidades para novas lojas (
 #### 🟦 Cidades
 
 **Delhi**  
-Segunda maior quantidade de clientes (68); Maior estimativa de consumidores (7,7 milhões); Média de aluguel baixa (330).  
+Segunda maior quantidade de clientes (68); Maior estimativa de consumidores (7,7 milhões); Baixo valor de aluguel médio por cliente (330 dólares).  
 
 **Pune**  
-Terceira maior quantidade de clientes (52); Maior receita média por clientes (24 mil); Média de aluguel baixa (294).  
+Terceira maior quantidade de clientes (52); Maior receita média por clientes (24 mil dólares); Baixo valor de aluguel médio por cliente (294 dólares).  
 
 **Jaipur**  
-Maior quantidade de clientes (69); Receita média considerável (11 mil); Menor média de aluguel (156).  
+Maior quantidade de clientes (69); Receita média considerável (11 mil dólares); Menor valor de aluguel médio por cliente (156 dólares).  
 
 **Chennai**  
-Quarta maior quantidade de clientes (42); Segunda maior receita média (22 mil); Estimativa de consumidores considerável (2,78 milhões).
+Quarta maior quantidade de clientes (42); Segunda maior receita média (22 mil dólares); Estimativa de consumidores considerável (2,78 milhões).
 
 --
 
@@ -355,16 +355,16 @@ Quarta maior quantidade de clientes (42); Segunda maior receita média (22 mil);
 Maior quantidade de vendas (1.326) e maior receita (1.193.400 de dólares).  
 
 **Coffee Beans (500g)**  
-Terceira maior quantidade de vendas (1.218) e segunda maior receita (730.800).  
+Terceira maior quantidade de vendas (1.218) e segunda maior receita (730.800 dólares).  
 
 **Ground Espresso Coffee (250g)**  
-Segunda maior quantidade de clientes (1271) e quarta maior receita (444.850).
+Segunda maior quantidade de clientes (1.271) e quarta maior receita (444.850 dólares).
 
 **Instante Coffee Powder (100g)**  
-Alta quantidade de vendas (1226) e faturamento considerável (306.500).  
+Alta quantidade de vendas (1.226) e faturamento considerável (306.500 dólares).  
 
 **Coffee Gift Hamper**  
-Apesar da baixa quantidade de vendas comparado aos produtos anteriores (270), gerou a terceira maior receita (486.000).
+Apesar da baixa quantidade de vendas quando comparado aos produtos anteriores (270), gerou a terceira maior receita (486 mil dólares).
 
 ***
 

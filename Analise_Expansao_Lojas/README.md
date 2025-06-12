@@ -357,7 +357,8 @@ Maior quantidade de vendas (1.326) e maior receita (1.193.400 de dólares).
 **Coffee Beans (500g)**  
 Terceira maior quantidade de vendas (1.218) e segunda maior receita (730.800).  
 
-**Ground Espresso Coffee (250g)** Segunda maior quantidade de clientes (1271) e quarta maior receita (444.850).
+**Ground Espresso Coffee (250g)**  
+Segunda maior quantidade de clientes (1271) e quarta maior receita (444.850).
 
 **Instante Coffee Powder (100g)**  
 Alta quantidade de vendas (1226) e faturamento considerável (306.500).  

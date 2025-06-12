@@ -191,12 +191,23 @@ Para o perfil com **mais de 20 anos na empresa, Research & Development possui a 
 Com base na análise dos dados e padrões identificados, algumas ações podem ser adotadas, de acordo com os principais pontos avaliados: Performance dos colaboradores e satisfação deles em relação à empresa.
 
 #### 🟦 Performance
-- **Baixa Performance:** Promoções sazonais, descontos progressivos e ações em datas comemorativas podem ajudar a impulsionar vendas, principalmente no primeiro trimestre.
+**Sistemas de reconhecimento e desenvolvimento, ginástica laboral:** De acordo com os dados, a performance dos funcionários, no geral, cai percentualmente ao longo dos anos, e isso, dado o cenário dos dados, pode estar associado especialmente à
+
+- Falta de motivação ou perspectiva de crescimento na empresa
+- Rotina desgastante
+- Gestão ausente ou falha nos setores da empresa
+
+Para melhorar o desempenho dos funcionários, considerando os pontos acima, pode-se implementar:
+- **Falta de motivação ou perspectiva de crescimento na empresa:** **Reconhecer a contribuição dos funcionários** não apenas com promoções, mas **feedbacks públicos**, sejam eles **reuniões mensais com premiações**,** murais em áreas convivência**, **menções** assim como oferecer **planos de desenvolvimento individual** e **programas de treinamento internos ou externos**. Tudo isso levará o colaborador a dar o seu melhor, ampliando também sua perspectiva de crescimento dentro da empresa.
+
+- **Rotina desgastante:** Dias de **ginástica laboral**, **short friday** ou um **dia da semana sem reuniões** podem tornar o dia de trabalho menos tenso, levando a um melhor desempenho nas atividades diárias.
+
+- **Gestão ausente ou falha nos setores da empresa** Gestores atentos escutam os colaboradores. **Atentar-se às suas reclamações**, **implementar indicadores de performance específicos de cada setor**, considerando suas especificações, pode melhor seu rendimento, pois estarão de acordo com o funcionamento de cada departamento.
 
 --
   
 #### 🟦 Satisfação
-- **Aproveitar o potencial dos produtos mais lucrativos:** Campanhas de marketing direcionadas para os best-sellers (como Camisa Linho e Oxford) podem alavancar ainda mais o faturamento.
+- **A** Campanhas de marketing direcionadas para os best-sellers (como Camisa Linho e Oxford) podem alavancar ainda mais o faturamento.
 
 ***
 

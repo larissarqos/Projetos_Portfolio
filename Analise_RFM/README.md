@@ -439,7 +439,7 @@ Os insights estão dividos nos dois pontos da análise: vendas e perfil dos clie
 #### 🟨 Perfil dos Clientes
 Os insights aqui listados são com base na análise RFM do último ano (2023), em que constam 147 clientes.
 
-**38% do público precisa de atenção:** Mais de 1/4 A dos clientes se encontra em risco de perda.
+**38% do público precisa de atenção:** Mais de 1/4 dos clientes se encontra em risco de perda.
 - Classificações: At risk, Needs attention, Can't Lose Them e Others
 
 <br>
@@ -451,6 +451,11 @@ Os insights aqui listados são com base na análise RFM do último ano (2023), e
 
 **17% quase indo embora:** É o total de clientes quase perdidos, com recência e frequência muito abaixo da média.
 - Classificações: Hibernating e About to Sleep
+
+<br>
+
+**16% valendo ouro:** É o percentual de clientes de maior valor e o perfil que queremos multiplicar.
+- Classificações: Champions e Loyal customers
 
 <br>
 

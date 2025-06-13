@@ -450,7 +450,7 @@ Reativação dos clientes com campanhas sazonais, e-mails personalizados e promo
   
 <br>
 
-**Baixa Frequência:**  
+**Baixa Frequência**  
 Nutrir o relacionamento com ofertas de produtos complementares, campanhas de pontos que geram desconto com prazo de validade, buscando manter a frequência de compras desses consumidores.
 - **Classificações:**
 

@@ -441,18 +441,22 @@ As recomendações estão dividas nos dois pontos da análise: vendas e perfil d
 #### 🟦 Segmentação dos Clientes
 As sugestões estão agrupadas de acordo com as notas em recência, frequência ou valor.
 
-**🔹Baixa Recência**
+**🔹Baixa Recência**  
 Reativação dos clientes com campanhas sazonais, e-mails personalizados e promoções exclusivas.
-** - Classificações:** 
+- **Classificações:**
 
-**🔹Baixa Frequência:** 
+**🔹Baixa Frequência:**  
 Nutrir o relacionamento com ofertas de produtos complementares, campanhas de pontos que geram desconto com prazo de validade, buscando manter a frequência de compras desses consumidores.
-** - Classificações:** 
+- **Classificações:**
 
-**🔹Baixo valor:** Incentivar compras de maior valor com combos, frete grátis acima de certo valor ou upselling, a fim de aumentar o ticket médio desse perfil.
-** - Classificações:** 
+**🔹Baixo valor**  
+Incentivar compras de maior valor com combos, frete grátis acima de certo valor ou upselling, a fim de aumentar o ticket médio desse perfil.
+- **Classificações:** 
 
-**🔹Alto RFV:** Clientes que são frequentes, recentes e têm alto valor. Atualmente representam 3,7% (Nota de RFV geral = 15) dos clientes da empresa. Manter e recompensar — programas de fidelidade, vantagens VIP, campanhas de indicação, recompensas (como condições especiais de pagamento, descontos, brindes), premiações.
+**🔹Alto RFV**  
+Clientes que são frequentes, recentes e têm alto valor. Atualmente representam 3,7% (Nota de RFV geral = 15) dos clientes da empresa. Manter e recompensar — programas de fidelidade, vantagens VIP, campanhas de indicação, recompensas (como condições especiais de pagamento, descontos, brindes), premiações.  
+- **Classificações:**
+
 
 ***
 

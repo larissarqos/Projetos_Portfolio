@@ -414,9 +414,10 @@ Após a segmentação dos clientes com base em seu perfil de compras (recência,
 #### 💡 Insights Obtidos  
 Os insights estão dividos nos dois pontos da análise: vendas e perfil dos clientes. 
 
-
 #### 🟨 Vendas
-- **Público que mais compra**: Majoritariamente mulheres, de 40+, em todas as categorias de produtos
+- **Público que mais compra**: Majoritariamente mulheres de 40+, em todas as categorias de produtos
+
+<br>
 
 - **Potencial da categoria Beauty:** Considerando o último ano de vendas, **Beauty é categoria de menor custo (19% do faturamento) e de maior receita média por venda**. Se Beauty contasse com a mesma quantidade de vendas que Clothing em 2023, o faturamento iria dos quase 139 mil dólares para mais de 175 mil. Abaixo tabela comparando desempenho do último ano (2023):
 
@@ -470,38 +471,68 @@ Os insights aqui listados são com base na análise RFM do último ano (2023), e
 As recomendações estão dividas nos dois pontos da análise: vendas e perfil dos clientes. 
 
 #### 🟦 Vendas
-**Lalala**  
-Aaaaaaaaaaaaaaaa
+
+**Focar no público majoritário:** Com maioria de clientes sendo mulheres acima dos 40 anos, podemos direcionar campanhas para esse perfil, fazendo:
+- Campanhas de marketing específicas, com temas de autocuidado, bem-estar, casa e estilo (considerando as categorias que consomem);
+- Parcerias com influenciadoras dessa faixa etária (40+);
+- Ofertas especiais para esse perfil, incluindo combos com foco em autocuidado.
+
+<br>
+
+**Buscar aumentar as vendas da categoria Beauty:** Dado o potencial da categoria, devemos voltar estratégias para alavancar suas vendas, como:
+- Destacar Beauty com mais espaço nas plataformas virtuais ou loja física;
+- Oferecer frete grátis acima de certo valor, promoções relâmpago ou descontos progressivos;
+- Estratégias de Upsell relacionando Beauty às outras categorias, especialmente Clothing (ex.: Compre o vestido e leve esse perfume com 30% de desconto).
+
+<br>
+
+**Lançar campanhas sazonais para os períodos de maior venda:** Devemos aproveitar o pico de vendas (setembro–dezembro) explorando o máximo de oportunidades possíveis, a começar pelas datas comemorativas da época:
+- Utilizar um calendário de ações relacionando campanhas de marketing e datas comemorativas, como "Primavera do autocuidado" (setembro), black friday antecipada (outubro-dezembro), kits de presente para Natal, Ano Novo (novembro-dezembro).
+
+<br>
+
+**Chame mais atenção à noite:** Como melhor turno para vendas, é o horário perfeito para maior atenção e incentivo a compras para os clientes, através de:
+- Lançamento de ofertas exclusivas nesse horário (promoções, descontos, frete grátis das 18:00 às 23:00, por exemplo);
+- Disparo e-mails, notificações de ofertas e similares durante a noite;
+- Lives commerce ou novos lançamentos nesse horário.
 
 --
 
 #### 🟦 Perfil dos Clientes
-As sugestões estão agrupadas de acordo com as notas em recência, frequência ou valor.
+As sugestões estão agrupadas de acordo com os resultados apresentados em Insights.
+
+**Fortalecendo o relacionamento** Para os 38% que precisam de atenção, é necessário recuperar o interesse, fortalecendo o laço com a empresa para aumentar seus indicadores RFM, fazendo:
+- Ofertas relâmpago exclusivas;
+- Programas de pontos com descontos ou brindes de acordo com valor gasto;
+- Descontos na compra de produtos complementares;
+- Personalizar e-mails de acordo com o perfil do cliente, data de aniversário ou similares, de modo a fazê-lo sentir que a empresa o considera importante
 
 <br>
 
-**Baixa Recência**  
-Reativação dos clientes com campanhas sazonais, e-mails personalizados e promoções exclusivas.
-- **Classificações:**
-  
-<br>
-
-**Baixa Frequência**  
-Nutrir o relacionamento com ofertas de produtos complementares, campanhas de pontos que geram desconto com prazo de validade, buscando manter a frequência de compras desses consumidores.
-- **Classificações:**
+**Aproximar e fidelizar:** Para os 24% promissores, devemos fidelizar esses clientes:
+- Lançar programas de fidelidade ("clube" com benefícios exclusivos)
+- Cupons de desconto para próximas compras, com prazo de validade
+- Upsell com produtos complementares
 
 <br>
 
-**Baixo valor**  
-Incentivar compras de maior valor com combos, frete grátis acima de certo valor ou upselling, a fim de aumentar o ticket médio desse perfil.
-- **Classificações:** 
+**Trazer de volta:** Os 17% quase partindo devem ser trazidos de volta fazendo-o enxergar as vantagens e o diferencial de comprar na empresa, através de:
+- Frete grátis ou brinde surpresa em caso de compras naquele mês;
+- Reforçar novidas da marca, como mudanças e lançamentos;
+- Combos especiais com desconto e produto extra grátis.
 
 <br>
 
-**Alto RFV**  
-Clientes que são frequentes, recentes e têm alto valor. Atualmente representam 3,7% (Nota de RFV geral = 15) dos clientes da empresa. Manter e recompensar — programas de fidelidade, vantagens VIP, campanhas de indicação, recompensas (como condições especiais de pagamento, descontos, brindes), premiações.  
-- **Classificações:**
+**Fidelizar e multiplicar:** Os 16% de maior valor são o perfil desejado pela empresa e devem ser recompensados por isso. Boas formas de premiá-los e multiplicá-los são:
+- Criar um "clube VIP", com acesso antecipado a lançamentos, cupons exclusivos e brindes;
+- Programas de indicação com benefício duplo, para atrair potenciais clientes de perfil semelhante;
+- Mensagem de agradecimento com cupons especiais.
 
+<br>
+
+**Um último suspiro:** Para os 5% considerados perdidos, é possível tentar uma última alternativa de recuperação:
+- Cupom especial de desconto para compra até uma certa data;
+- Oferta de combos com descontos especiais em datas comemorativas (dias das mães, Natal), a fim de incentivá-lo a voltar a comprar.
 
 ***
 

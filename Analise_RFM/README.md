@@ -347,7 +347,7 @@ Após a segmentação dos clientes com base em seu perfil de compras (recência,
 
 *Verificar dashboard no Power BI para visualização completa da classificação.*
 
-<br>
+<br><br>
 
 ```sql
 	-- Como os dados vão até 31/12/2023, vamos usar 01/01/2024 como a data de hoje, para que 2023 seja o ano mais recente analisado

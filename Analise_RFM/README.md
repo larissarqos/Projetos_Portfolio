@@ -430,13 +430,32 @@ Os insights estão dividos nos dois pontos da análise: vendas e perfil dos clie
 
 **Melhores resultados a partir de setembro:** Nos dois anos avaliados e para ambas as categorias, o desempenho nas vendas melhora consideravelmente a partir de setembro, mantendo-se em alta até o fim do ano.
 
+<br>
+
 **Preferem comprar à noite:** É o principal turno escolhido pelos clientes, somando 44% das vendas em 2022 e subindo para 61% em 2023.
 
 --
 
 #### 🟨 Perfil dos Clientes
+Os insights aqui listados são com base na análise RFM do último ano (2023), em que constam 147 clientes.
 
-- **% do público é promissor:** 
+**38% do público precisa de atenção:** Mais de 1/4 A dos clientes se encontra em risco de perda.
+- Classificações: At risk, Needs attention, Can't Lose Them e Others
+
+<br>
+
+**24% de promissores:** Esse é o percentual de clientes com potencial de fidelização.  
+- Classificações: Promissing, Recent Customers e Potential Loyalists
+
+<br>
+
+**17% quase indo embora:** É o total de clientes quase perdidos, com recência e frequência muito abaixo da média.
+- Classificações: Hibernating e About to Sleep
+
+<br>
+
+**5% perdidos no último ano:** É preciso melhorar o relacionamento com os consumidores, para que esse número não passe a subir.
+- Classificação: Lost
 
 ****
 

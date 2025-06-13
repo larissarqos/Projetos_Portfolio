@@ -165,8 +165,8 @@ impactam as vendas e faturamento, considerando o perfil dos clientes, categoria 
 
 --
 
-#### 📌 2. Qual a categoria mais lucrativa?
-A categoria mais lucrativa é **Clothing, 250.730 doláres (quase 35% do lucro total da empresa)**.
+#### 📌 2. Que categoria gerou maior lucro?
+Clothing, 250.730 doláres (quase 35% do lucro total da empresa).
 
 ```sql
 	SELECT category,
@@ -416,9 +416,19 @@ Os insights estão dividos nos dois pontos da análise: vendas e perfil dos clie
 
 
 #### 🟨 Vendas
-- **Gênero e Faixa Etária:** Os fatores de gênero e faixa etária não têm diferença significativa nos resultados de performance, ambos apresentaram valores semelhantes. A **principal diferença se dá na faixa dos 50+, para o gênero feminino, em que 20% das colaboradoras está com baixo rendimento**, comparado ao geral da empresa com 14% de funcionários em baixo desempenho.
+- **Público que mais compra**: Majoritariamente mulheres, de 40+, em todas as categorias de produtos
 
-- **Tempo de Serviço:** Há um crescimento sutil no baixo desempenho com o passar dos anos de serviço, o pico se dá na faixa dos 11-15 anos na empresa. Enquanto os demais períodos se encontram próximos à média geral, **11-15 possui 22% do total com baixo desempenho**, que passa a melhorar com o tempo, chegando a 12% na faixa dos 20+ anos de trabalho.
+- **Potencial da categoria Beauty:** Considerando o último ano de vendas, **Beauty é categoria de menor custo (20,44% do faturamento) e de maior receita média por venda**. Se Beauty contasse com a mesma quantidade de vendas que Clothing em 2023, o faturamento iria dos quase 139 mil dólares para mais de 175 mil. Abaixo tabela comparando desempenho do último ano (2023):
+
+| Categoria  | Vendas     | Receita  | Custo         | Lucro          | Receita média por venda |
+|------------|------------|----------|---------------|----------------|-------------------------|
+| Clothing   | 378        | $164.650 | $33.100 (20%) | $131.550 (80%) | $435,60                 |
+| Eletronics | 344        | $155.340 | $34.650 (22%) | $120.690 (77%) | $451,57                 |
+| Beauty     | 299        | $138.920 | $26.010 (19%) | $112.910 (81%) | $464,62                 |
+
+<br>
+
+- **Melhores resultados a partir de setembro:** Nos dois anos avaliados e para ambas as categorias, o desempenho nas vendas melhora consideravelmente a partir de setembro, mantendo-se em alta até o fim do ano.
 
 --
 

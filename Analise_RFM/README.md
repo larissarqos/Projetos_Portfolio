@@ -523,7 +523,7 @@ As sugestões estão agrupadas de acordo com os resultados apresentados em Insig
 
 <br>
 
-**Fidelizar e multiplicar:** Os 16% de maior valor são o perfil desejado pela empresa e devem ser recompensados por isso. Boas formas de premiá-los e multiplicá-los são:
+**Recompensar e multiplicar:** Os 16% de maior valor são o perfil desejado pela empresa e devem ser recompensados por isso. Boas formas de premiá-los e multiplicá-los são:
 - Criar um "clube VIP", com acesso antecipado a lançamentos, cupons exclusivos e brindes;
 - Programas de indicação com benefício duplo, para atrair potenciais clientes de perfil semelhante;
 - Mensagem de agradecimento com cupons especiais.

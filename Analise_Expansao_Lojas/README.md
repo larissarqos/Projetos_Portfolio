@@ -1,4 +1,4 @@
-<h1 align="center">Análise - Expansão de Rede de Lojas </h1>
+<h1 align="center"> Expansão de Rede de Lojas </h1>
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/35866b23-4a80-4caf-90ba-012eb87cdfa2" alt="img" width="1100"/>

@@ -418,7 +418,7 @@ Os insights estão dividos nos dois pontos da análise: vendas e perfil dos clie
 #### 🟨 Vendas
 - **Público que mais compra**: Majoritariamente mulheres, de 40+, em todas as categorias de produtos
 
-- **Potencial da categoria Beauty:** Considerando o último ano de vendas, **Beauty é categoria de menor custo (20,44% do faturamento) e de maior receita média por venda**. Se Beauty contasse com a mesma quantidade de vendas que Clothing em 2023, o faturamento iria dos quase 139 mil dólares para mais de 175 mil. Abaixo tabela comparando desempenho do último ano (2023):
+- **Potencial da categoria Beauty:** Considerando o último ano de vendas, **Beauty é categoria de menor custo (19% do faturamento) e de maior receita média por venda**. Se Beauty contasse com a mesma quantidade de vendas que Clothing em 2023, o faturamento iria dos quase 139 mil dólares para mais de 175 mil. Abaixo tabela comparando desempenho do último ano (2023):
 
 | Categoria  | Vendas     | Receita  | Custo         | Lucro          | Receita média por venda |
 |------------|------------|----------|---------------|----------------|-------------------------|
@@ -428,15 +428,17 @@ Os insights estão dividos nos dois pontos da análise: vendas e perfil dos clie
 
 <br>
 
-- **Melhores resultados a partir de setembro:** Nos dois anos avaliados e para ambas as categorias, o desempenho nas vendas melhora consideravelmente a partir de setembro, mantendo-se em alta até o fim do ano.
+**Melhores resultados a partir de setembro:** Nos dois anos avaliados e para ambas as categorias, o desempenho nas vendas melhora consideravelmente a partir de setembro, mantendo-se em alta até o fim do ano.
+
+**Preferem comprar à noite:** É o principal turno escolhido pelos clientes, somando 44% das vendas em 2022 e subindo para 61% em 2023.
 
 --
 
 #### 🟨 Perfil dos Clientes
-- **Tempo de Serviço:** Funcionários com **0-3 anos de serviço** têm melhor desempenho, especialmente nos setores de **Human Resources (90%) e Sales (93%)**. **Research & Development possui 86% dos colabores com alto desempenho** para esse período.
-Para o perfil com **mais de 20 anos na empresa, Research & Development possui a parcela 93% com alta performance**, enquanto os demais setores estão na faixa dos 80%.
 
-***
+- **% do público é promissor:** 
+
+****
 
 <br>
 

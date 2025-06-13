@@ -193,22 +193,31 @@ Com base na análise dos dados e padrões identificados, algumas ações podem s
 #### 🟦 Performance
 **Sistemas de reconhecimento e desenvolvimento, ginástica laboral:** De acordo com os dados, a performance dos funcionários, no geral, cai percentualmente ao longo dos anos, e isso, dado o cenário dos dados, pode estar associado especialmente à
 
-- Falta de motivação ou perspectiva de crescimento na empresa
-- Rotina desgastante
+- Falta de motivação ou perspectiva de crescimento na empresa 
+- Rotina desgastante 
 - Gestão ausente ou falha nos setores da empresa
 
 Para melhorar o desempenho dos funcionários, considerando os pontos acima, pode-se implementar:
-- **Falta de motivação ou perspectiva de crescimento na empresa:** **Reconhecer a contribuição dos funcionários** não apenas com promoções, mas **feedbacks públicos**, sejam eles **reuniões mensais com premiações**,** murais em áreas convivência**, **menções** assim como oferecer **planos de desenvolvimento individual** e **programas de treinamento internos ou externos**. Tudo isso levará o colaborador a dar o seu melhor, ampliando também sua perspectiva de crescimento dentro da empresa.
+- **Falta de motivação ou perspectiva de crescimento na empresa:** **Reconhecer a contribuição dos funcionários** não apenas com promoções, mas **feedbacks públicos**, sejam eles **reuniões mensais com premiações**, **murais em áreas convivência**, **menções** assim como oferecer **planos de desenvolvimento individual** e **programas de treinamento internos ou externos**. Tudo isso levará o colaborador a dar o seu melhor, ampliando também sua perspectiva de crescimento dentro da empresa.
 
 - **Rotina desgastante:** Dias de **ginástica laboral**, **short friday** ou um **dia da semana sem reuniões** podem tornar o dia de trabalho menos tenso, levando a um melhor desempenho nas atividades diárias.
 
-- **Gestão ausente ou falha nos setores da empresa** Gestores atentos escutam os colaboradores. **Atentar-se às suas reclamações**, **implementar indicadores de performance específicos de cada setor**, considerando suas especificações, pode melhor seu rendimento, pois estarão de acordo com o funcionamento de cada departamento.
+- **Gestão ausente ou falha nos setores da empresa** Gestores atentos escutam os colaboradores. **Atentar-se às suas reclamações**, **implementar indicadores de performance específicos para cada setor**, pode melhor seu rendimento, pois estarão de acordo com suas especificações.
 
 --
-  
-#### 🟦 Satisfação
-- **A** Campanhas de marketing direcionadas para os best-sellers (como Camisa Linho e Oxford) podem alavancar ainda mais o faturamento.
 
+#### 🟦 Satisfação
+**Alinhar expectativas, criar planos de carreira:** Pudemos notar que o tempo de serviço e nível de insatisfação estão muito interligados, com maior parte de descontentes na faixa dos 0-15 anos. Seguindo os insights nos dados, os níveis de insatisfação podem estar relacionados à
+
+- Quebra de expectativa de funcionários novatos
+- Sensação de estagnação / não reconhecimento na empresa
+
+Para solucionar essas possíveis queixas, pode-se:
+
+- **Quebra de expectativa de funcionários novatos:** Melhorar a experiência de onboarding, com acompanhamento constante e plano de carreira já pré-definidos, isso pode alinhar as expectativas dos novos funcionários, fazendo-os entender o que esperar da empresa e como podem crescer nela.
+
+- **Sensação de estagnação / não reconhecimento na empresa:** Muito próximos aos problemas de desempenho, esse pontos podem resolvidos incluindo a **participação dos colaboradores em projetos de melhoria** nos seus respectivos setores, aderir a ** bonificações / premiações** para funcionários de melhor desempenho e oferecer programas de carreira dentro da empresa. Tudo isso pode colaborar a uma maior sensação de crescimento e valorização na corporação por parte dos funcionários.
+  
 ***
 
 <br>

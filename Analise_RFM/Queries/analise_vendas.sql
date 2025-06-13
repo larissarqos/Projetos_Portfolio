@@ -121,7 +121,7 @@ FROM RETAIL_SALES
 
 
 -- 6. Qual o perfil dos clientes?
--- Contamos com homens e mulhes, de 18 a +50 anos. O perfil majoritário é de homens +50 e mulheres entre 41 e +50 anos.
+-- Contamos com homens e mulheres, de 18 a +50 anos. O perfil majoritário é de mulheres +50 entre 41 e +50 anos.
 SELECT
 	gender,
 	age_range,
@@ -141,12 +141,8 @@ GROUP BY category
 ORDER BY total_sales DESC
 
 
-SELECT gender, COUNT(*) AS total_sales
-FROM retail_sales
-GROUP BY gender
-
 -- 2. Qual a categoria mais lucrativa?
--- As categorias mais lucrativas foram Clothing e Electronics, com uma pequena margem de diferença (aprox. 0,48%)
+-- As categorias mais lucrativa é Clothing.
 SELECT category,
 	SUM(profit) AS total_profit
 FROM RETAIL_SALES
@@ -154,6 +150,7 @@ GROUP BY category
 ORDER BY total_profit DESC
 
 -- 3. Qual o perfil de cliente de maior valor para a empresa?
+-- O perfil de maior valor é do gênero feminino, com faixa etária entre 31-50 anos.
 SELECT TOP 3 gender,
 	age_range,
 	COUNT(DISTINCT customer_id) AS total_customers,
@@ -164,6 +161,7 @@ GROUP BY gender, age_range
 ORDER BY revenue DESC
 
 -- 4. Qual o perfil de clientes de maior valor em cada categoria?
+
 SELECT
     category,
     gender,

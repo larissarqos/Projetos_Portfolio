@@ -1,5 +1,5 @@
--- Análise RFM dos clientes, considerando o último ano de vendas, 2023
 
+-- Análise RFM dos clientes, considerando o último ano de vendas, 2023
 
 USE RETAIL_SALES
 

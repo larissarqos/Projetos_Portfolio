@@ -442,6 +442,8 @@ Aaaaaaaaaaaaaaaa
 #### 🟦 Perfil dos Clientes
 As sugestões estão agrupadas de acordo com as notas em recência, frequência ou valor.
 
+<br>
+
 **Baixa Recência**  
 Reativação dos clientes com campanhas sazonais, e-mails personalizados e promoções exclusivas.
 - **Classificações:**

@@ -1,8 +1,9 @@
 <h1 align="center"> Dashboard RH - Análise de Performance </h1>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/0b4a00d9-5935-47c4-85c9-ded57cc69eb0" alt="img" width="1100"/>
+  <img src="https://github.com/user-attachments/assets/baf49498-43c9-4e4f-b2c7-62f23e2ce282" alt="img" width="1100"/>
 </p>
+
 
 <br>
 

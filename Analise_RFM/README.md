@@ -411,29 +411,48 @@ Após a segmentação dos clientes com base em seu perfil de compras (recência,
 
 <br>
 
+#### 💡 Insights Obtidos  
+Os insights estão dividos nos dois pontos da análise: vendas e perfil dos clientes. 
+
+
+#### 🟨 Vendas
+- **Gênero e Faixa Etária:** Os fatores de gênero e faixa etária não têm diferença significativa nos resultados de performance, ambos apresentaram valores semelhantes. A **principal diferença se dá na faixa dos 50+, para o gênero feminino, em que 20% das colaboradoras está com baixo rendimento**, comparado ao geral da empresa com 14% de funcionários em baixo desempenho.
+
+- **Tempo de Serviço:** Há um crescimento sutil no baixo desempenho com o passar dos anos de serviço, o pico se dá na faixa dos 11-15 anos na empresa. Enquanto os demais períodos se encontram próximos à média geral, **11-15 possui 22% do total com baixo desempenho**, que passa a melhorar com o tempo, chegando a 12% na faixa dos 20+ anos de trabalho.
+
+--
+
+#### 🟨 Perfil dos Clientes
+- **Tempo de Serviço:** Funcionários com **0-3 anos de serviço** têm melhor desempenho, especialmente nos setores de **Human Resources (90%) e Sales (93%)**. **Research & Development possui 86% dos colabores com alto desempenho** para esse período.
+Para o perfil com **mais de 20 anos na empresa, Research & Development possui a parcela 93% com alta performance**, enquanto os demais setores estão na faixa dos 80%.
+
+***
+
+<br>
+
 ### 🚀 Recomendações Estratégicas
-Com base nas pontuações obtidas, é possível definir estratégias direcionadas para os diferentes perfis de clientes:
-###🟦 Baixa Recência
-Cliente hibernando ou quase perdido, estão inativos há muito tempo.  
-**🟩 Ações:** Reativação com campanhas sazonais, e-mails personalizados e promoções exclusivas.
-**Classificações:** 
---
+As recomendações estão dividas nos dois pontos da análise: vendas e perfil dos clientes. 
 
-**🟧 Baixa frequência:** Contamos com alta recência, a baixa frequência pode indicar pouca regularidade nas compras.  
-
-**🟩 Ações:** Nutrir o relacionamento com ofertas de produtos complementares, campanhas de pontos que geram desconto com prazo de validade, buscando manter a frequência de compras desses clientes.
+#### 🟦 Vendas
+**Lalala**
 
 --
 
-**🟧 Baixo valor:** Percebemos, em nossa análise, baixo valor (muitas notas entre 3 e 4) mesmo com alta frequência e recência.  
+#### 🟦 Segmentação dos Clientes
+As sugestões estão agrupadas de acordo com as notas em recência, frequência ou valor.
 
-**🟩 Ações:** Incentivar compras de maior valor com combos, frete grátis acima de certo valor ou upselling, a fim de aumentar o ticket médio desse perfil.
+**🔹Baixa Recência**
+Reativação dos clientes com campanhas sazonais, e-mails personalizados e promoções exclusivas.
+** - Classificações:** 
 
---  
+**🔹Baixa Frequência:** 
+Nutrir o relacionamento com ofertas de produtos complementares, campanhas de pontos que geram desconto com prazo de validade, buscando manter a frequência de compras desses consumidores.
+** - Classificações:** 
 
-**🟧 Alto RFV:** Clientes que são frequentes, recentes e têm alto valor. Atualmente representam 3,7% (Nota de RFV geral = 15) dos clientes da empresa.  
-**🟩 Ações:** Manter e recompensar — programas de fidelidade, vantagens VIP, campanhas de indicação, recompensas (como condições especiais de pagamento, descontos, brindes), premiações.
+**🔹Baixo valor:** Incentivar compras de maior valor com combos, frete grátis acima de certo valor ou upselling, a fim de aumentar o ticket médio desse perfil.
+** - Classificações:** 
 
+**🔹Alto RFV:** Clientes que são frequentes, recentes e têm alto valor. Atualmente representam 3,7% (Nota de RFV geral = 15) dos clientes da empresa. Manter e recompensar — programas de fidelidade, vantagens VIP, campanhas de indicação, recompensas (como condições especiais de pagamento, descontos, brindes), premiações.
 
 ***
 

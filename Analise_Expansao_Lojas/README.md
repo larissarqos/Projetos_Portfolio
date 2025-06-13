@@ -32,10 +32,10 @@ Uma rede fictícia de cafeterias deseja ampliar seus negócios, abrindo novas fi
 <br>
 
 ## 🎯 Objetivos 
-Identificaremos os lugares com possibilidade de maior retorno, bem como os produtos de maior sucesso das cafeterias. Basicamente 3 pontos principais guiarão a análise:
-* Cidades que geram maior receita
-* Produtos que mais vendem
-* Estimativa de consumo para as possíveis novas lojas
+Identificar os lugares com possibilidade de maior retorno, bem como os produtos de maior sucesso das cafeterias. Basicamente 3 pontos principais guiarão a análise:
+- Cidades que geram maior receita
+- Produtos que mais vendem
+- Estimativa de consumo para as possíveis novas lojas
 
 ***
 
@@ -45,9 +45,7 @@ Identificaremos os lugares com possibilidade de maior retorno, bem como os produ
 
 #### 🔸 Banco de dados
 #### 🔸 Respondendo às perguntas de negócio
-#### 🔸 Insights Obtidos
 #### 🔸 Recomendações Estratégicas
-#### 🔸 Impacto Esperado
 
 ***
 
@@ -331,11 +329,6 @@ ON ca.cidade = cr.cidade
 ORDER BY receita_total DESC
 ```
 <br>
-
-#### 💡 Insights Obtidos
-#### 🟨 Cidades
-
-#### 🟨 Produtos
 
 ### 🚀 Recomendações Estratégicas
 De acordo com a análise dos dados, segue as melhores cidades para novas lojas (menor custo e maiores estimativas de receita e quantidade de clientes) e os produtos de melhor desempenho:

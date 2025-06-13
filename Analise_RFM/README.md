@@ -412,6 +412,27 @@ Após a segmentação dos clientes com base em seu perfil de compras (recência,
 <br>
 
 ### 🚀 Recomendações Estratégicas
+Com base nas pontuações obtidas, é possível definir estratégias direcionadas para os diferentes perfis de clientes:
+###🟦 Baixa Recência
+Cliente hibernando ou quase perdido, estão inativos há muito tempo.  
+**🟩 Ações:** Reativação com campanhas sazonais, e-mails personalizados e promoções exclusivas.
+**Classificações:** 
+--
+
+**🟧 Baixa frequência:** Contamos com alta recência, a baixa frequência pode indicar pouca regularidade nas compras.  
+
+**🟩 Ações:** Nutrir o relacionamento com ofertas de produtos complementares, campanhas de pontos que geram desconto com prazo de validade, buscando manter a frequência de compras desses clientes.
+
+--
+
+**🟧 Baixo valor:** Percebemos, em nossa análise, baixo valor (muitas notas entre 3 e 4) mesmo com alta frequência e recência.  
+
+**🟩 Ações:** Incentivar compras de maior valor com combos, frete grátis acima de certo valor ou upselling, a fim de aumentar o ticket médio desse perfil.
+
+--  
+
+**🟧 Alto RFV:** Clientes que são frequentes, recentes e têm alto valor. Atualmente representam 3,7% (Nota de RFV geral = 15) dos clientes da empresa.  
+**🟩 Ações:** Manter e recompensar — programas de fidelidade, vantagens VIP, campanhas de indicação, recompensas (como condições especiais de pagamento, descontos, brindes), premiações.
 
 
 ***
